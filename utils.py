@@ -26,11 +26,12 @@ def get_json_url(package_name):
 
 
 def annotate_wheels(packages):
+    # TODO we only want to process files with extension modules and skip pure python packages
     print("Getting wheel data...")
     num_packages = len(packages)
     for index, package in enumerate(packages):
         print(index + 1, num_packages, package["name"])
-        has_wheel = False
+        has_free_threaded_wheel = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
         if response.status_code != 200:
@@ -39,12 +40,17 @@ def annotate_wheels(packages):
         data = response.json()
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
-                has_wheel = True
-        package["wheel"] = has_wheel
+                # The wheel filename is:
+                # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
+                # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
+                abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
+                if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
+                    has_free_threaded_wheel = True
+        package["wheel"] = has_free_threaded_wheel
 
         # Display logic. I know, I'm sorry.
         package["value"] = 1
-        if has_wheel:
+        if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "\u2713"  # Check mark
             package["title"] = "This package provides a wheel."
