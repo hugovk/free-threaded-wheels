@@ -38,26 +38,37 @@ def annotate_wheels(packages):
             print(" ! Skipping " + package["name"])
             continue
         data = response.json()
+        all_abi_are_none = True
+
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
                 # The wheel filename is:
                 # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
+
+                if abi_tag != "none":
+                    all_abi_are_none = False
+
                 if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
                     has_free_threaded_wheel = True
-        package["wheel"] = has_free_threaded_wheel
+
+        package["wheel"] = has_free_threaded_wheel or all_abi_are_none
 
         # Display logic. I know, I'm sorry.
         package["value"] = 1
         if has_free_threaded_wheel:
             package["css_class"] = "success"
-            package["icon"] = "\u2713"  # Check mark
-            package["title"] = "This package provides a wheel."
+            package["icon"] = "🧵"
+            package["title"] = "This package provides a free-threaded wheel."
+        elif all_abi_are_none:
+            package["css_class"] = "success"
+            package["icon"] = "🐍"
+            package["title"] = "This package provides pure Python wheels."
         else:
             package["css_class"] = "default"
             package["icon"] = "\u2717"  # Ballot X
-            package["title"] = "This package has no wheel archives uploaded " "(yet!)."
+            package["title"] = "This package has no wheel archives uploaded (yet!)."
 
 
 def get_top_packages():
