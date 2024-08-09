@@ -58,7 +58,7 @@ def annotate_wheels(packages):
         # Display logic. I know, I'm sorry.
         package["value"] = 1
         if has_free_threaded_wheel:
-            package["css_class"] = "success"
+            package["css_class"] = "success-free-threaded"
             package["icon"] = "🧵"
             package["title"] = "This package provides a free-threaded wheel."
         elif all_abi_are_none:

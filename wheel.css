@@ -4,6 +4,12 @@
   fill: #5CB85C;
 }
 
+.success-free-threaded {
+  stroke: #4CAE4C;
+  stroke-width: 1;
+  fill: #47A447;
+}
+
 .default {
   stroke: #cccccc;
   stroke-width: 1;
