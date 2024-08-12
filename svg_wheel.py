@@ -1,5 +1,4 @@
 import math
-import os
 import xml.etree.ElementTree as et
 
 HEADERS = b"""<?xml version=\"1.0\" standalone=\"no\"?>
