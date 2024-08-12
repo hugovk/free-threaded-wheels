@@ -10,6 +10,9 @@ on:
     - cron: '0 10 * * *'  # Daily at 10AM UTC.
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     permissions:
@@ -24,7 +27,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.x'
 
       - name: Install build dependencies
         run: |
@@ -34,18 +37,18 @@ jobs:
         run: |
           make generate
 
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          role-to-assume: arn:aws:iam::386531310338:role/pythonwheels_deploy_from_github
-          aws-region: eu-west-1
-
-      - name: Deploy the built files
+      - name: Collect the built files
         run: |
           TIMESTAMP=$(date --iso-8601=seconds --utc)
           echo $TIMESTAMP
-          aws s3 cp index.html s3://pythonwheels.com
-          aws s3 cp wheel.css s3://pythonwheels.com
-          aws s3 cp wheel.svg s3://pythonwheels.com
-          aws s3 cp results.json s3://pythonwheels.com/results/${TIMESTAMP}.json
-          aws s3 cp s3://pythonwheels.com/results/${TIMESTAMP}.json s3://pythonwheels.com/results.json
+          mkdir -p build/results/
+          cp index.html build/
+          cp wheel.css build/
+          cp wheel.svg build/
+          cp results.json build/results/${TIMESTAMP}.json
+          cp build/results/${TIMESTAMP}.json build/results.json
+
+      - name: Deploy the built files
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build # The folder the action should deploy.
