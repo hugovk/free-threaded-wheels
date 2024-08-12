@@ -35,14 +35,11 @@ jobs:
 
       - name: Collect the built files
         run: |
-          TIMESTAMP=$(date --iso-8601=seconds --utc)
-          echo $TIMESTAMP
-          mkdir -p build/results/
+          mkdir build/
           cp index.html build/
           cp wheel.css build/
           cp wheel.svg build/
-          cp results.json build/results/${TIMESTAMP}.json
-          cp build/results/${TIMESTAMP}.json build/results.json
+          cp results.json build/
 
       - name: Deploy the built files
         uses: JamesIves/github-pages-deploy-action@v4
