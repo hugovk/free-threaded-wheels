@@ -10,14 +10,10 @@ on:
     - cron: '0 10 * * *'  # Daily at 10AM UTC.
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   deploy:
     permissions:
-      id-token: write
-      contents: read
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
