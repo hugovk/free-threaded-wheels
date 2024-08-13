@@ -4,10 +4,10 @@
   fill: #5CB85C;
 }
 
-.success-free-threaded {
-  stroke: #4CAE4C;
+.todo {
+  stroke: #93930a;
   stroke-width: 1;
-  fill: #47A447;
+  fill: yellow;
 }
 
 .default {
