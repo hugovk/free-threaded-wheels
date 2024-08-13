@@ -1092,11 +1092,11 @@
   {
    "downloads": 58114294,
    "name": "matplotlib",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "default",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success-free-threaded",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 57949551,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Monday, 12 August 2024, 11:07:08 UTC"
+ "last_update": "Tuesday, 13 August 2024, 10:21:03 UTC"
 }
