@@ -58,15 +58,15 @@ def annotate_wheels(packages):
         # Display logic. I know, I'm sorry.
         package["value"] = 1
         if has_free_threaded_wheel:
-            package["css_class"] = "success-free-threaded"
+            package["css_class"] = "success"
             package["icon"] = "🧵"
             package["title"] = "This package provides a free-threaded wheel."
         elif all_abi_are_none:
-            package["css_class"] = "success"
+            package["css_class"] = "default"
             package["icon"] = "🐍"
             package["title"] = "This package provides pure Python wheels."
         else:
-            package["css_class"] = "default"
+            package["css_class"] = "todo"
             package["icon"] = "\u2717"  # Ballot X
             package["title"] = "This package has no wheel archives uploaded (yet!)."
 
