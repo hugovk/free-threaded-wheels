@@ -165,11 +165,11 @@
   {
    "downloads": 259201797,
    "name": "numpy",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "todo",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 257406933,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Sunday, 18 August 2024, 10:18:56 UTC"
+ "last_update": "Monday, 19 August 2024, 10:22:47 UTC"
 }
