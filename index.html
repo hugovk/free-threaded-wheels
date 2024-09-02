@@ -126,12 +126,12 @@
 
             // Calculate percentages
             const totalPackages = $scope.packages.length;
-            const successPackages = $scope.packages.filter(pkg => pkg.css_class === 'success').length;
-            const defaultPackages = $scope.packages.filter(pkg => pkg.css_class === 'default').length;
-            const todoPackages = $scope.packages.filter(pkg => pkg.css_class === 'todo').length;
-            const successPercentage = (successPackages / totalPackages) * 100;
-            const defaultPercentage = (defaultPackages / totalPackages) * 100;
-            const todoPercentage = (todoPackages / totalPackages) * 100;
+            const getPackageCount = (cssClass) => $scope.packages.filter(pkg => pkg.css_class === cssClass).length;
+
+            const successPercentage = (getPackageCount('success') / totalPackages) * 100;
+            const defaultPercentage = (getPackageCount('default') / totalPackages) * 100;
+            const todoPercentage = (getPackageCount('todo') / totalPackages) * 100;
+
             document.getElementById('success-percent').innerText = `(${successPercentage.toFixed(0)}%)`;
             document.getElementById('default-percent').innerText = `(${defaultPercentage.toFixed(0)}%)`;
             document.getElementById('todo-percent').innerText = `(${todoPercentage.toFixed(0)}%)`;
