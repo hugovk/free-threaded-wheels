@@ -1,8 +1,7 @@
 import datetime
 import json
 import pytz
-import requests
-
+import requests_cache
 
 BASE_URL = "https://pypi.org/pypi"
 
@@ -18,7 +17,8 @@ DEPRECATED_PACKAGES = {
     "sklearn",
 }
 
-SESSION = requests.Session()
+# Keep responses for one hour
+SESSION = requests_cache.CachedSession("requests-cache", expire_after=60 * 60)
 
 
 def get_json_url(package_name):
