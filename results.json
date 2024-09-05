@@ -59,7 +59,7 @@
    "name": "charset-normalizer",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -113,7 +113,7 @@
    "name": "pyyaml",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -140,7 +140,7 @@
    "name": "cryptography",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -194,7 +194,7 @@
    "name": "cffi",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -221,7 +221,7 @@
    "name": "pandas",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -320,7 +320,7 @@
    "name": "protobuf",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -365,7 +365,7 @@
    "name": "markupsafe",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -392,7 +392,7 @@
    "name": "wrapt",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -464,7 +464,7 @@
    "name": "pyarrow",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -482,7 +482,7 @@
    "name": "psutil",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -527,7 +527,7 @@
    "name": "sqlalchemy",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -554,7 +554,7 @@
    "name": "pydantic-core",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -572,7 +572,7 @@
    "name": "aiohttp",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -599,7 +599,7 @@
    "name": "scipy",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -626,7 +626,7 @@
    "name": "pynacl",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -653,7 +653,7 @@
    "name": "multidict",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -680,7 +680,7 @@
    "name": "yarl",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -689,7 +689,7 @@
    "name": "greenlet",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -707,7 +707,7 @@
    "name": "pillow",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -716,7 +716,7 @@
    "name": "frozenlist",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -761,7 +761,7 @@
    "name": "grpcio",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -833,7 +833,7 @@
    "name": "lxml",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -860,7 +860,7 @@
    "name": "bcrypt",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -950,7 +950,7 @@
    "name": "msgpack",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -968,7 +968,7 @@
    "name": "rpds-py",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1022,7 +1022,7 @@
    "name": "scikit-learn",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1067,7 +1067,7 @@
    "name": "snowflake-connector-python",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1103,7 +1103,7 @@
    "name": "psycopg2-binary",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1157,7 +1157,7 @@
    "name": "grpcio-tools",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1283,7 +1283,7 @@
    "name": "regex",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1391,7 +1391,7 @@
    "name": "google-crc32c",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1418,7 +1418,7 @@
    "name": "kiwisolver",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1445,7 +1445,7 @@
    "name": "rapidfuzz",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1562,7 +1562,7 @@
    "name": "fonttools",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1607,7 +1607,7 @@
    "name": "ruamel-yaml-clib",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1787,7 +1787,7 @@
    "name": "cython",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1805,7 +1805,7 @@
    "name": "pyrsistent",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1823,7 +1823,7 @@
    "name": "dulwich",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -1985,7 +1985,7 @@
    "name": "black",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2021,7 +2021,7 @@
    "name": "pycryptodomex",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2030,7 +2030,7 @@
    "name": "tornado",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2102,7 +2102,7 @@
    "name": "pycryptodome",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2228,7 +2228,7 @@
    "name": "pendulum",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2246,7 +2246,7 @@
    "name": "multiprocess",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2282,7 +2282,7 @@
    "name": "torch",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2318,7 +2318,7 @@
    "name": "shapely",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2408,7 +2408,7 @@
    "name": "pymongo",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2417,7 +2417,7 @@
    "name": "websockets",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2453,7 +2453,7 @@
    "name": "debugpy",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2615,7 +2615,7 @@
    "name": "tokenizers",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2642,7 +2642,7 @@
    "name": "mysql-connector-python",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2660,7 +2660,7 @@
    "name": "zope-interface",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2714,7 +2714,7 @@
    "name": "orjson",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2786,7 +2786,7 @@
    "name": "pyodbc",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2885,7 +2885,7 @@
    "name": "sentencepiece",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -2894,7 +2894,7 @@
    "name": "mypy",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -3047,7 +3047,7 @@
    "name": "watchdog",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -3074,7 +3074,7 @@
    "name": "lz4",
    "wheel": false,
    "value": 1,
-   "css_class": "todo",
+   "css_class": "warning",
    "icon": "\u2717",
    "title": "This package has no wheel archives uploaded (yet!)."
   },
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Thursday, 05 September 2024, 10:31:27 UTC"
+ "last_update": "Thursday, 05 September 2024, 10:49:14 UTC"
 }
