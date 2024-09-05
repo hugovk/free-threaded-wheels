@@ -17,9 +17,6 @@
         .text-default {
             color: #777;
         }
-        .text-todo {
-            color: #93930a;
-        }
         @media (prefers-color-scheme: dark) {
           body {
             color: #ccc;
@@ -75,11 +72,11 @@
                 <ul>
                     <li><span class="text-success">Green</span> packages <span id="success-percent"></span> with a 🧵 offer free-threaded wheels</li>
                     <li><span class="text-default">Uncoloured</span> packages <span id="default-percent"></span> with a 🐍 offer pure-Python wheels</li>
-                    <li><span class="text-todo">Yellow</span> packages <span id="todo-percent"></span> have no wheels ready for free-threading (yet!)</li>
+                    <li><span class="text-warning">Orange</span> packages <span id="todo-percent"></span> have no wheels ready for free-threading (yet!)</li>
                 </ul>
                 <p>Free-threaded wheels have an <a href="https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention">ABI tag</a> ending in <code>t</code>, for example, <code>cp313t</code></code></pre>.</p>
                 <p>Packages that are known to be deprecated are not included (for example, distribute). If your package is incorrectly listed, please <a href="https://github.com/hugovk/free-threaded-wheels/issues/">create a ticket</a>.</p>
-                <h2 id="creating-wheels">My package is yellow. What can I do?</h2>
+                <h2 id="creating-wheels">My package is orange. What can I do?</h2>
                 <p>See <a href="https://dev.to/hugovk/help-us-test-free-threaded-python-without-the-gil-1hgf">how to test</a>
                     and the advice at <a href="https://py-free-threading.github.io/">py-free-threading</a> for adding support for free-threading and creating wheels.</p>
                 <h2 id="bugs">Something's wrong with this page!</h2>
