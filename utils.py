@@ -66,7 +66,7 @@ def annotate_wheels(packages):
             package["icon"] = "🐍"
             package["title"] = "This package provides pure Python wheels."
         else:
-            package["css_class"] = "todo"
+            package["css_class"] = "warning"
             package["icon"] = "\u2717"  # Ballot X
             package["title"] = "This package has no wheel archives uploaded (yet!)."
 

@@ -4,10 +4,10 @@
   fill: #5CB85C;
 }
 
-.todo {
-  stroke: #93930a;
+.warning {
+  stroke: #ffca2c;
   stroke-width: 1;
-  fill: yellow;
+  fill: #ffc107;
 }
 
 .default {
