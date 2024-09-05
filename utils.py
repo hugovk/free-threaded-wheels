@@ -27,7 +27,6 @@ def get_json_url(package_name):
 
 
 def annotate_wheels(packages):
-    # TODO we only want to process files with extension modules and skip pure python packages
     print("Getting wheel data...")
     num_packages = len(packages)
     for index, package in enumerate(packages):
