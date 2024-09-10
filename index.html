@@ -56,7 +56,7 @@
 <body ng-controller="wheelCtrl">
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm">
             <h1 id="wheels">🧵 Free-Threaded Wheels</h1>
                 <object data="wheel.svg" type="image/svg+xml" width="380" height="380" class="d-block mx-auto"></object>
                 <h2 id="what-wheels">What are wheels?</h2>
@@ -88,7 +88,7 @@
                     The top 360 list comes from <a href="https://hugovk.github.io/top-pypi-packages/">Top PyPI Packages</a>.</p>
                 <p>Thanks also to the many <a href="https://github.com/hugovk/free-threaded-wheels/graphs/contributors">contributors</a>.</p>
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm">
                 <div class="list">
                     <span ng-hide="packages">pythonwheels.com requires javascript to be enabled to display the list of packages.</span>
                     <a ng-repeat="package in packages" ng-href="https://pypi.org/project/{{ package.name }}" class="btn btn-{{ package.css_class }}" ng-attr-title="{{package.title}}">
