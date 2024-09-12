@@ -118,7 +118,7 @@
 
             const successPercentage = (getPackageCount('success') / totalPackages) * 100;
             const defaultPercentage = (getPackageCount('default') / totalPackages) * 100;
-            const todoPercentage = (getPackageCount('todo') / totalPackages) * 100;
+            const todoPercentage = (getPackageCount('warning') / totalPackages) * 100;
 
             document.getElementById('success-percent').innerText = `(${successPercentage.toFixed(0)}%)`;
             document.getElementById('default-percent').innerText = `(${defaultPercentage.toFixed(0)}%)`;
