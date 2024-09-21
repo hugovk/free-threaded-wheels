@@ -219,11 +219,11 @@
   {
    "downloads": 237196525,
    "name": "pandas",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 226950755,
@@ -687,11 +687,11 @@
   {
    "downloads": 100590041,
    "name": "greenlet",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 98816721,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Friday, 20 September 2024, 10:21:43 UTC"
+ "last_update": "Saturday, 21 September 2024, 10:19:21 UTC"
 }
