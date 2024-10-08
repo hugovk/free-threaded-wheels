@@ -363,11 +363,11 @@
   {
    "downloads": 160400763,
    "name": "markupsafe",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 157663442,
@@ -3241,5 +3241,5 @@
    "title": "This package has no wheel archives uploaded (yet!)."
   }
  ],
- "last_update": "Monday, 07 October 2024, 10:23:36 UTC"
+ "last_update": "Tuesday, 08 October 2024, 10:22:06 UTC"
 }
