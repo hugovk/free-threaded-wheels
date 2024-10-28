@@ -480,11 +480,11 @@
   {
    "downloads": 131332276,
    "name": "pyarrow",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 130307667,
@@ -3241,5 +3241,5 @@
    "title": "This package has no wheel archives uploaded (yet!)."
   }
  ],
- "last_update": "Sunday, 27 October 2024, 10:20:04 UTC"
+ "last_update": "Monday, 28 October 2024, 10:23:31 UTC"
 }
