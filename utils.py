@@ -31,6 +31,7 @@ def annotate_wheels(packages):
     num_packages = len(packages)
     for index, package in enumerate(packages):
         print(index + 1, num_packages, package["name"])
+        has_abi_none_wheel = False
         has_free_threaded_wheel = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
@@ -38,7 +39,6 @@ def annotate_wheels(packages):
             print(" ! Skipping " + package["name"])
             continue
         data = response.json()
-        all_abi_are_none = True
 
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
@@ -47,13 +47,13 @@ def annotate_wheels(packages):
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
 
-                if abi_tag != "none":
-                    all_abi_are_none = False
+                if abi_tag == "none":
+                    has_abi_none_wheel = True
 
                 if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
                     has_free_threaded_wheel = True
 
-        package["wheel"] = has_free_threaded_wheel or all_abi_are_none
+        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
 
         # Display logic. I know, I'm sorry.
         package["value"] = 1
@@ -61,7 +61,7 @@ def annotate_wheels(packages):
             package["css_class"] = "success"
             package["icon"] = "🧵"
             package["title"] = "This package provides a free-threaded wheel."
-        elif all_abi_are_none:
+        elif has_abi_none_wheel:
             package["css_class"] = "default"
             package["icon"] = "🐍"
             package["title"] = "This package provides pure Python wheels."
