@@ -66,11 +66,11 @@
   {
    "downloads": 463912826,
    "name": "charset-normalizer",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 458283677,
@@ -300,11 +300,11 @@
   {
    "downloads": 213132959,
    "name": "protobuf",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 203440975,
@@ -426,11 +426,11 @@
   {
    "downloads": 153225886,
    "name": "wrapt",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 152866576,
@@ -453,11 +453,11 @@
   {
    "downloads": 151845509,
    "name": "pydantic-core",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 144634863,
@@ -543,11 +543,11 @@
   {
    "downloads": 123985833,
    "name": "psutil",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 123014434,
@@ -561,20 +561,20 @@
   {
    "downloads": 121488844,
    "name": "sqlalchemy",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 121383362,
    "name": "yarl",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 121146330,
@@ -615,11 +615,11 @@
   {
    "downloads": 116018483,
    "name": "multidict",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 115472681,
@@ -696,11 +696,11 @@
   {
    "downloads": 108305815,
    "name": "frozenlist",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 107049503,
@@ -957,11 +957,11 @@
   {
    "downloads": 79821881,
    "name": "rpds-py",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 79460401,
@@ -1263,11 +1263,11 @@
   {
    "downloads": 64257827,
    "name": "propcache",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 63626454,
@@ -1632,11 +1632,11 @@
   {
    "downloads": 48683239,
    "name": "pyrsistent",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 48584726,
@@ -1659,11 +1659,11 @@
   {
    "downloads": 47339039,
    "name": "fonttools",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 47063624,
@@ -1821,11 +1821,11 @@
   {
    "downloads": 44212819,
    "name": "cython",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 44165325,
@@ -1839,11 +1839,11 @@
   {
    "downloads": 43864238,
    "name": "multiprocess",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 43703283,
@@ -1920,11 +1920,11 @@
   {
    "downloads": 42458140,
    "name": "pendulum",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 42395336,
@@ -1947,11 +1947,11 @@
   {
    "downloads": 41566109,
    "name": "dulwich",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 41503025,
@@ -2073,11 +2073,11 @@
   {
    "downloads": 38280341,
    "name": "black",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 38061431,
@@ -2127,11 +2127,11 @@
   {
    "downloads": 37367025,
    "name": "debugpy",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 37212496,
@@ -2505,11 +2505,11 @@
   {
    "downloads": 29782453,
    "name": "torch",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 29729658,
@@ -2532,11 +2532,11 @@
   {
    "downloads": 29596459,
    "name": "pyspark",
-   "wheel": true,
+   "wheel": false,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "warning",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
   },
   {
    "downloads": 29520616,
@@ -2577,38 +2577,38 @@
   {
    "downloads": 29132908,
    "name": "websockets",
-   "wheel": false,
-   "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
-  },
-  {
-   "downloads": 28801611,
-   "name": "tokenizers",
-   "wheel": false,
-   "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
-  },
-  {
-   "downloads": 28602679,
-   "name": "mysql-connector-python",
-   "wheel": false,
-   "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
-  },
-  {
-   "downloads": 28454471,
-   "name": "jsonpath-ng",
    "wheel": true,
    "value": 1,
    "css_class": "default",
    "icon": "\ud83d\udc0d",
    "title": "This package provides pure Python wheels."
+  },
+  {
+   "downloads": 28801611,
+   "name": "tokenizers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
+  },
+  {
+   "downloads": 28602679,
+   "name": "mysql-connector-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
+  },
+  {
+   "downloads": 28454471,
+   "name": "jsonpath-ng",
+   "wheel": false,
+   "value": 1,
+   "css_class": "warning",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
   },
   {
    "downloads": 28392590,
@@ -2739,11 +2739,11 @@
   {
    "downloads": 26958225,
    "name": "orjson",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 26820431,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Monday, 04 November 2024, 10:23:55 UTC"
+ "last_update": "Monday, 04 November 2024, 17:58:29 UTC"
 }
