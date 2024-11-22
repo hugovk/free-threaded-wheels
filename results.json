@@ -428,9 +428,9 @@
    "name": "wrapt",
    "wheel": true,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 152866576,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Thursday, 21 November 2024, 10:23:23 UTC"
+ "last_update": "Friday, 22 November 2024, 10:23:12 UTC"
 }
