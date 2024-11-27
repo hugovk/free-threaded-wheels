@@ -2586,11 +2586,11 @@
   {
    "downloads": 28801611,
    "name": "tokenizers",
-   "wheel": true,
+   "wheel": false,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "warning",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
   },
   {
    "downloads": 28602679,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Tuesday, 26 November 2024, 10:24:13 UTC"
+ "last_update": "Wednesday, 27 November 2024, 10:24:26 UTC"
 }
