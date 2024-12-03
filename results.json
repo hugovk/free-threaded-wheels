@@ -887,9 +887,9 @@
    "name": "rpds-py",
    "wheel": true,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 106221580,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Monday, 02 December 2024, 10:25:17 UTC"
+ "last_update": "Tuesday, 03 December 2024, 10:25:24 UTC"
 }
