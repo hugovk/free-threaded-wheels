@@ -1218,11 +1218,11 @@
   {
    "downloads": 77886630,
    "name": "scikit-learn",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 77633614,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Monday, 09 December 2024, 10:25:21 UTC"
+ "last_update": "Tuesday, 10 December 2024, 10:24:55 UTC"
 }
