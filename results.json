@@ -2127,11 +2127,11 @@
   {
    "downloads": 45388346,
    "name": "debugpy",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "default",
+   "icon": "\ud83d\udc0d",
+   "title": "This package provides pure Python wheels."
   },
   {
    "downloads": 45306816,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Wednesday, 11 December 2024, 10:24:28 UTC"
+ "last_update": "Thursday, 12 December 2024, 10:24:36 UTC"
 }
