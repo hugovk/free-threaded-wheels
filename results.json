@@ -399,11 +399,11 @@
   {
    "downloads": 197555264,
    "name": "pydantic-core",
-   "wheel": true,
+   "wheel": false,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "warning",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
   },
   {
    "downloads": 195946590,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Wednesday, 18 December 2024, 10:23:41 UTC"
+ "last_update": "Thursday, 19 December 2024, 10:23:29 UTC"
 }
