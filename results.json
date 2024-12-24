@@ -1659,11 +1659,11 @@
   {
    "downloads": 59048341,
    "name": "kiwisolver",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 58872028,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Tuesday, 24 December 2024, 10:21:11 UTC"
+ "last_update": "Tuesday, 24 December 2024, 21:41:36 UTC"
 }
