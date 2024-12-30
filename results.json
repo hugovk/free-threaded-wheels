@@ -2208,11 +2208,11 @@
   {
    "downloads": 43320046,
    "name": "orjson",
-   "wheel": true,
+   "wheel": false,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "warning",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
   },
   {
    "downloads": 43187181,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Sunday, 29 December 2024, 10:19:34 UTC"
+ "last_update": "Monday, 30 December 2024, 10:22:14 UTC"
 }
