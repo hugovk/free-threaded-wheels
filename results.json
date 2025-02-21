@@ -914,9 +914,9 @@
    "name": "propcache",
    "wheel": true,
    "value": 1,
-   "css_class": "default",
-   "icon": "\ud83d\udc0d",
-   "title": "This package provides pure Python wheels."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 101359385,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Thursday, 20 February 2025, 10:22:55 UTC"
+ "last_update": "Friday, 21 February 2025, 10:22:03 UTC"
 }
