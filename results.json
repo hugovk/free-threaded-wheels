@@ -1236,11 +1236,11 @@
   {
    "downloads": 76230588,
    "name": "bcrypt",
-   "wheel": false,
+   "wheel": true,
    "value": 1,
-   "css_class": "warning",
-   "icon": "\u2717",
-   "title": "This package has no wheel archives uploaded (yet!)."
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "title": "This package provides a free-threaded wheel."
   },
   {
    "downloads": 75636596,
@@ -3241,5 +3241,5 @@
    "title": "This package provides pure Python wheels."
   }
  ],
- "last_update": "Thursday, 27 February 2025, 10:23:09 UTC"
+ "last_update": "Friday, 28 February 2025, 10:22:52 UTC"
 }
