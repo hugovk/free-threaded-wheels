@@ -1,6 +1,5 @@
 import datetime
 import json
-import pytz
 import requests_cache
 
 
@@ -26,49 +25,47 @@ def get_json_url(package_name):
     return BASE_URL + "/" + package_name + "/json"
 
 
-def annotate_wheels(packages):
-    print("Getting wheel data...")
-    num_packages = len(packages)
-    for index, package in enumerate(packages):
-        print(index + 1, num_packages, package["name"])
-        has_abi_none_wheel = False
-        has_free_threaded_wheel = False
-        url = get_json_url(package["name"])
-        response = SESSION.get(url)
-        if response.status_code != 200:
-            print(" ! Skipping " + package["name"])
-            continue
-        data = response.json()
+def annotate_package(package):
+    has_wheel = False
+    has_abi_none_wheel = False
+    has_free_threaded_wheel = False
+    url = get_json_url(package["name"])
+    response = SESSION.get(url)
+    # Treat data read failures as fatal errors
+    response.raise_for_status()
+    data = response.json()
 
-        for download in data["urls"]:
-            if download["packagetype"] == "bdist_wheel":
-                # The wheel filename is:
-                # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
-                # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
-                abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
+    for download in data["urls"]:
+        if download["packagetype"] == "bdist_wheel":
+            has_wheel = True
+            # The wheel filename is:
+            # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
+            # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
+            abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
 
-                if abi_tag == "none":
-                    has_abi_none_wheel = True
+            if abi_tag == "none":
+                has_abi_none_wheel = True
 
-                if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
-                    has_free_threaded_wheel = True
+            if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
+                has_free_threaded_wheel = True
 
-        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
+    package["free_threaded_wheel"] = has_free_threaded_wheel
+    package["pure_python_wheel"] = has_abi_none_wheel
 
-        # Display logic. I know, I'm sorry.
-        package["value"] = 1
-        if has_free_threaded_wheel:
-            package["css_class"] = "success"
-            package["icon"] = "🧵"
-            package["title"] = "This package provides a free-threaded wheel."
-        elif has_abi_none_wheel:
-            package["css_class"] = "default"
-            package["icon"] = "🐍"
-            package["title"] = "This package provides pure Python wheels."
-        else:
-            package["css_class"] = "warning"
-            package["icon"] = "\u2717"  # Ballot X
-            package["title"] = "This package has no wheel archives uploaded (yet!)."
+    # Display logic. I know, I'm sorry.
+    package["value"] = 1
+    if has_free_threaded_wheel:
+        package["css_class"] = "success"
+        package["icon"] = "🧵"
+        package["title"] = "This package provides at least one free-threaded wheel."
+    elif not has_wheel:
+        package["css_class"] = "default"
+        package["icon"] = "🐍"
+        package["title"] = "This package does not publish any wheel archives."
+    else:
+        package["css_class"] = "warning"
+        package["icon"] = "\u2717"  # Ballot X
+        package["title"] = "This package publishes binary wheels, but no free-threaded wheels."
 
 
 def get_top_packages():
@@ -84,19 +81,30 @@ def get_top_packages():
 
     return packages
 
-
-def not_deprecated(package):
-    return package["name"] not in DEPRECATED_PACKAGES
-
-
-def remove_irrelevant_packages(packages, limit):
-    print("Removing cruft...")
-    active_packages = list(filter(not_deprecated, packages))
-    return active_packages[:limit]
+def get_annotated_packages(packages, limit):
+    annotated_packages = []
+    for index, package in enumerate(packages):
+        name = package["name"]
+        if name in DEPRECATED_PACKAGES:
+            continue
+        index_text = str(index)
+        indent = " " * len(index_text)
+        print(f"{index_text} Checking published wheels for {name!r}...")
+        annotate_package(package)
+        if package["pure_python_wheel"] and not package["free_threaded_wheel"]:
+            print(f"{indent}  Skipping (project publishes a pure Python wheel)")
+            continue
+        annotated_packages.append(package)
+        num_packages = len(annotated_packages)
+        print(f"{indent}  Added to results ({num_packages}/{limit})")
+        if len(annotated_packages) == limit:
+            break
+    print(f"Scanned {index} packages in total")
+    return annotated_packages
 
 
 def save_to_file(packages, file_name):
-    now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
+    now = datetime.datetime.now(tz=datetime.UTC)
     with open(file_name, "w") as f:
         f.write(
             json.dumps(

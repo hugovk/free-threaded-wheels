@@ -4,3 +4,4 @@ requests-cache.sqlite
 results.json
 top-pypi-packages.json
 wheel.svg
+.venv

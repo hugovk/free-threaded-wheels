@@ -44,10 +44,10 @@ def annular_sector_path(start, stop):
     return PATH_TEMPLATE.format(**points)
 
 
-def add_annular_sectors(wheel, packages, total):
+def add_annular_sectors(svg_wheel, packages, total):
     for index, result in enumerate(packages):
         sector = et.SubElement(
-            wheel,
+            svg_wheel,
             "path",
             d=annular_sector_path(*angles(index, total)),
             attrib={"class": result["css_class"]},
@@ -70,7 +70,7 @@ def angles(index, total):
     return start, stop
 
 
-def add_fraction(wheel, packages, total):
+def add_central_fraction_text(svg_wheel, packages, total):
     text_attributes = {
         "class": "wheel-text",
         "text-anchor": "middle",
@@ -79,25 +79,25 @@ def add_fraction(wheel, packages, total):
         "font-family": '"Helvetica Neue",Helvetica,Arial,sans-serif',
     }
 
-    # Packages with some sort of wheel
-    wheel_packages = sum(package["wheel"] for package in packages)
+    # Packages with a free-threaded wheel
+    free_threaded_packages = sum(package["free_threaded_wheel"] for package in packages)
 
-    packages_with_wheels = et.SubElement(
-        wheel,
+    numerator = et.SubElement(
+        svg_wheel,
         "text",
         x=str(CENTER),
         y=str(CENTER - OFFSET),
         attrib=text_attributes,
     )
-    packages_with_wheels.text = f"{wheel_packages}"
+    numerator.text = f"{free_threaded_packages}"
 
-    title = et.SubElement(packages_with_wheels, "title")
-    percentage = f"{wheel_packages / float(total):.0%}"
-    title.text = percentage
+    numerator_title = et.SubElement(numerator, "title")
+    percentage = f"{free_threaded_packages / float(total):.0%}"
+    numerator_title.text = percentage
 
     # Dividing line
     et.SubElement(
-        wheel,
+        svg_wheel,
         "line",
         x1=str(CENTER - FRACTION_LINE // 2),
         y1=str(CENTER),
@@ -107,30 +107,31 @@ def add_fraction(wheel, packages, total):
     )
 
     # Total packages
-    total_packages = et.SubElement(
-        wheel,
+    denominator = et.SubElement(
+        svg_wheel,
         "text",
         x=str(CENTER),
         y=str(CENTER + OFFSET),
         attrib=text_attributes,
     )
-    total_packages.text = f"{total}"
+    denominator.text = f"{total}"
 
-    title = et.SubElement(total_packages, "title")
-    title.text = percentage
+    denominator_title = et.SubElement(denominator, "title")
+    denominator_title.text = percentage
 
 
-def generate_svg_wheel(packages, total):
-    wheel = et.Element(
+def generate_svg_wheel(packages):
+    total = len(packages)
+    svg_wheel = et.Element(
         "svg",
         viewBox=f"0 0 {2 * CENTER} {2 * CENTER}",
         version="1.1",
         xmlns="http://www.w3.org/2000/svg",
     )
-    add_annular_sectors(wheel, packages, total)
+    add_annular_sectors(svg_wheel, packages, total)
 
-    add_fraction(wheel, packages, total)
+    add_central_fraction_text(svg_wheel, packages, total)
 
     with open("wheel.svg", "wb") as svg:
         svg.write(HEADERS)
-        svg.write(et.tostring(wheel))
+        svg.write(et.tostring(svg_wheel))
