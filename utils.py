@@ -1,6 +1,5 @@
-import datetime
+import datetime as dt
 import json
-import pytz
 import requests_cache
 
 
@@ -97,7 +96,7 @@ def get_top_packages():
 
 
 def save_to_file(packages, file_name):
-    now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
+    now = dt.datetime.now(tz=dt.timezone.utc)
     with open(file_name, "w") as f:
         f.write(
             json.dumps(
