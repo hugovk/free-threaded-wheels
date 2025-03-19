@@ -1,4 +1,5 @@
 import math
+from math import tau as 𝜏
 import xml.etree.ElementTree as et
 
 HEADERS = b"""<?xml version=\"1.0\" standalone=\"no\"?>
@@ -58,9 +59,9 @@ def add_annular_sectors(wheel, packages, total):
 
 def angles(index, total):
     # Angle, in radians, of one wedge of the wheel.
-    angle_per_wedge = math.tau / total
+    angle_per_wedge = 𝜏 / total
     # Used to turn the start of the wheel from east to north.
-    quarter_circle = math.tau / 4
+    quarter_circle = 𝜏 / 4
 
     # Angle of the beginning of the wedge.
     start = (index * angle_per_wedge) - quarter_circle
