@@ -35,8 +35,7 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
         if package["name"] in DEPRECATED_PACKAGES:
             continue
 
-        has_wheel = False
-        has_abi_none_wheel = False
+        has_other_binary_wheel = False
         has_free_threaded_wheel = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
@@ -48,23 +47,20 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
 
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
-                has_wheel = True
-
                 # The wheel filename is:
                 # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
 
-                if abi_tag == "none":
-                    has_abi_none_wheel = True
-
                 if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
                     has_free_threaded_wheel = True
+                elif abi_tag != "none":
+                    has_other_binary_wheel = True
 
         if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "🧵"
-        elif has_wheel and not has_abi_none_wheel:
+        elif has_other_binary_wheel:
             package["css_class"] = "warning"
             package["icon"] = "\u2717"  # Ballot X
         else:
