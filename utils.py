@@ -1,6 +1,5 @@
-import datetime
+import datetime as dt
 import json
-import pytz
 import requests_cache
 
 
@@ -26,18 +25,24 @@ def get_json_url(package_name):
     return BASE_URL + "/" + package_name + "/json"
 
 
-def annotate_wheels(packages):
+def annotate_wheels(packages, to_chart: int) -> list[dict]:
     print("Getting wheel data...")
     num_packages = len(packages)
+    total = 0
+    keep = []
     for index, package in enumerate(packages):
-        print(index + 1, num_packages, package["name"])
-        has_abi_none_wheel = False
+        print(f"{total + 1}/{to_chart} {index + 1}/{num_packages} {package['name']}")
+        if package["name"] in DEPRECATED_PACKAGES:
+            continue
+
+        has_other_binary_wheel = False
         has_free_threaded_wheel = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
         if response.status_code != 200:
             print(" ! Skipping " + package["name"])
             continue
+
         data = response.json()
 
         for download in data["urls"]:
@@ -47,28 +52,29 @@ def annotate_wheels(packages):
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
 
-                if abi_tag == "none":
-                    has_abi_none_wheel = True
-
                 if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
                     has_free_threaded_wheel = True
+                elif abi_tag != "none":
+                    has_other_binary_wheel = True
 
-        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
-
-        # Display logic. I know, I'm sorry.
-        package["value"] = 1
         if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "🧵"
-            package["title"] = "This package provides a free-threaded wheel."
-        elif has_abi_none_wheel:
-            package["css_class"] = "default"
-            package["icon"] = "🐍"
-            package["title"] = "This package provides pure Python wheels."
-        else:
+        elif has_other_binary_wheel:
             package["css_class"] = "warning"
             package["icon"] = "\u2717"  # Ballot X
-            package["title"] = "This package has no wheel archives uploaded (yet!)."
+        else:
+            # Don't show packages with only sdists or pure Python wheels
+            continue
+
+        package["free_threaded_wheel"] = has_free_threaded_wheel
+
+        keep.append(package)
+        total += 1
+        if total == to_chart:
+            break
+
+    return keep
 
 
 def get_top_packages():
@@ -85,18 +91,8 @@ def get_top_packages():
     return packages
 
 
-def not_deprecated(package):
-    return package["name"] not in DEPRECATED_PACKAGES
-
-
-def remove_irrelevant_packages(packages, limit):
-    print("Removing cruft...")
-    active_packages = list(filter(not_deprecated, packages))
-    return active_packages[:limit]
-
-
 def save_to_file(packages, file_name):
-    now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
+    now = dt.datetime.now(tz=dt.timezone.utc)
     with open(file_name, "w") as f:
         f.write(
             json.dumps(
