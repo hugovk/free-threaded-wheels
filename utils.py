@@ -65,7 +65,9 @@ def annotate_package(package):
     else:
         package["css_class"] = "warning"
         package["icon"] = "\u2717"  # Ballot X
-        package["title"] = "This package publishes binary wheels, but no free-threaded wheels."
+        package["title"] = (
+            "This package publishes binary wheels, but no free-threaded wheels."
+        )
 
 
 def get_top_packages():
@@ -80,6 +82,7 @@ def get_top_packages():
         package["name"] = package.pop("project")
 
     return packages
+
 
 def get_annotated_packages(packages, limit):
     annotated_packages = []
