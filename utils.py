@@ -32,10 +32,11 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
     total = 0
     keep = []
     for index, package in enumerate(packages):
+        print(f"{total + 1}/{to_chart} {index + 1}/{num_packages} {package['name']}")
         if package["name"] in DEPRECATED_PACKAGES:
             continue
 
-        print(f"{total}/{to_chart} {index + 1}/{num_packages} {package['name']}")
+        has_wheel = False
         has_abi_none_wheel = False
         has_free_threaded_wheel = False
         url = get_json_url(package["name"])
@@ -48,6 +49,8 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
 
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
+                has_wheel = True
+
                 # The wheel filename is:
                 # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
@@ -62,18 +65,15 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
         if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "🧵"
-            package["title"] = "This package provides a free-threaded wheel."
-        elif has_abi_none_wheel:
-            # Don't show packages with only pure Python wheels
-            continue
-        else:
+        elif has_wheel and not has_abi_none_wheel:
             package["css_class"] = "warning"
             package["icon"] = "\u2717"  # Ballot X
-            package["title"] = "This package has no wheel archives uploaded (yet!)."
+        else:
+            # Don't show packages with only sdists or pure Python wheels
+            continue
 
-        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
+        package["free_threaded_wheel"] = has_free_threaded_wheel
 
-        package["value"] = 1
         keep.append(package)
         total += 1
         if total == to_chart:
