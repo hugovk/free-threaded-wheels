@@ -26,11 +26,16 @@ def get_json_url(package_name):
     return BASE_URL + "/" + package_name + "/json"
 
 
-def annotate_wheels(packages):
+def annotate_wheels(packages, to_chart: int) -> list[dict]:
     print("Getting wheel data...")
     num_packages = len(packages)
+    total = 0
+    keep = []
     for index, package in enumerate(packages):
-        print(index + 1, num_packages, package["name"])
+        if package["name"] in DEPRECATED_PACKAGES:
+            continue
+
+        print(f"{total}/{to_chart} {index + 1}/{num_packages} {package['name']}")
         has_abi_none_wheel = False
         has_free_threaded_wheel = False
         url = get_json_url(package["name"])
@@ -38,6 +43,7 @@ def annotate_wheels(packages):
         if response.status_code != 200:
             print(" ! Skipping " + package["name"])
             continue
+
         data = response.json()
 
         for download in data["urls"]:
@@ -53,22 +59,27 @@ def annotate_wheels(packages):
                 if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
                     has_free_threaded_wheel = True
 
-        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
-
-        # Display logic. I know, I'm sorry.
-        package["value"] = 1
         if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "🧵"
             package["title"] = "This package provides a free-threaded wheel."
         elif has_abi_none_wheel:
-            package["css_class"] = "default"
-            package["icon"] = "🐍"
-            package["title"] = "This package provides pure Python wheels."
+            # Don't show packages with only pure Python wheels
+            continue
         else:
             package["css_class"] = "warning"
             package["icon"] = "\u2717"  # Ballot X
             package["title"] = "This package has no wheel archives uploaded (yet!)."
+
+        package["wheel"] = has_free_threaded_wheel or has_abi_none_wheel
+
+        package["value"] = 1
+        keep.append(package)
+        total += 1
+        if total == to_chart:
+            break
+
+    return keep
 
 
 def get_top_packages():
@@ -83,16 +94,6 @@ def get_top_packages():
         package["name"] = package.pop("project")
 
     return packages
-
-
-def not_deprecated(package):
-    return package["name"] not in DEPRECATED_PACKAGES
-
-
-def remove_irrelevant_packages(packages, limit):
-    print("Removing cruft...")
-    active_packages = list(filter(not_deprecated, packages))
-    return active_packages[:limit]
 
 
 def save_to_file(packages, file_name):

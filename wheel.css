@@ -10,12 +10,6 @@
   fill: #ffc107;
 }
 
-.default {
-  stroke: #cccccc;
-  stroke-width: 1;
-  fill: #ffffff;
-}
-
 line.wheel-line {
   stroke: #333;
 }
@@ -25,11 +19,6 @@ text.wheel-text {
 }
 
 @media (prefers-color-scheme: dark) {
-  .default {
-    stroke: #222;
-    stroke-width: 1;
-    fill: black;
-  }
   line.wheel-line {
     stroke: #ccc;
   }
