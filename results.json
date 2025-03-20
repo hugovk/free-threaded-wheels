@@ -1039,9 +1039,9 @@
   {
    "downloads": 5727991,
    "name": "jaxlib",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 5717912,
@@ -2166,9 +2166,9 @@
   {
    "downloads": 817611,
    "name": "awkward-cpp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 816209,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 19 March 2025, 15:11:39 UTC"
+ "last_update": "Thursday, 20 March 2025, 10:25:10 UTC"
 }
