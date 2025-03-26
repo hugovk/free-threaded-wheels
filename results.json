@@ -1039,9 +1039,9 @@
   {
    "downloads": 5727991,
    "name": "jaxlib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5717912,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 25 March 2025, 10:25:17 UTC"
+ "last_update": "Wednesday, 26 March 2025, 10:26:51 UTC"
 }
