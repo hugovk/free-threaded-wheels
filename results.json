@@ -1219,6 +1219,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 3073860,
+   "name": "chromadb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 3068907,
    "name": "apache-flink",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 614667,
-   "name": "krb5",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 03 April 2025, 10:24:45 UTC"
+ "last_update": "Friday, 04 April 2025, 10:25:50 UTC"
 }
