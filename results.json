@@ -2453,9 +2453,9 @@
   {
    "downloads": 659576,
    "name": "imagecodecs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 658588,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 04 April 2025, 10:25:50 UTC"
+ "last_update": "Saturday, 05 April 2025, 10:22:39 UTC"
 }
