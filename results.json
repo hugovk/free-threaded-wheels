@@ -1849,13 +1849,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 1279770,
-   "name": "duckduckgo-search",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 1265484,
    "name": "tree-sitter-javascript",
    "css_class": "warning",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 614667,
+   "name": "krb5",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 08 April 2025, 10:25:18 UTC"
+ "last_update": "Wednesday, 09 April 2025, 10:29:16 UTC"
 }
