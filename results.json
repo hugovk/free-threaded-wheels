@@ -115,9 +115,9 @@
   {
    "downloads": 142410918,
    "name": "yarl",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 138873409,
@@ -493,9 +493,9 @@
   {
    "downloads": 25704936,
    "name": "lazy-object-proxy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 24643940,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 16 April 2025, 10:26:14 UTC"
+ "last_update": "Thursday, 17 April 2025, 10:25:32 UTC"
 }
