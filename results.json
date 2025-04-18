@@ -129,9 +129,9 @@
   {
    "downloads": 131041866,
    "name": "frozenlist",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 127716048,
@@ -598,9 +598,9 @@
   {
    "downloads": 19035505,
    "name": "confluent-kafka",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 18870780,
@@ -1618,13 +1618,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 1643373,
-   "name": "caio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 1631595,
    "name": "tensorstore",
    "css_class": "warning",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 598714,
+   "name": "opencc",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 17 April 2025, 10:25:32 UTC"
+ "last_update": "Friday, 18 April 2025, 10:26:07 UTC"
 }
