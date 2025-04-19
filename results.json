@@ -1618,6 +1618,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 1643373,
+   "name": "caio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 1631595,
    "name": "tensorstore",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 598714,
-   "name": "opencc",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 18 April 2025, 10:26:07 UTC"
+ "last_update": "Saturday, 19 April 2025, 10:22:33 UTC"
 }
