@@ -388,9 +388,9 @@
   {
    "downloads": 38956928,
    "name": "torch",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 38952381,
@@ -640,9 +640,9 @@
   {
    "downloads": 15773002,
    "name": "torchvision",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15461995,
@@ -878,9 +878,9 @@
   {
    "downloads": 8415154,
    "name": "torchaudio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 8362741,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 23 April 2025, 10:29:25 UTC"
+ "last_update": "Thursday, 24 April 2025, 10:26:18 UTC"
 }
