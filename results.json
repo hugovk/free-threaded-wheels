@@ -444,9 +444,9 @@
   {
    "downloads": 32907213,
    "name": "setproctitle",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 32764696,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 29 April 2025, 10:26:26 UTC"
+ "last_update": "Wednesday, 30 April 2025, 10:27:30 UTC"
 }
