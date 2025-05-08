@@ -640,9 +640,9 @@
   {
    "downloads": 15760686,
    "name": "ijson",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15757792,
@@ -1648,9 +1648,9 @@
   {
    "downloads": 1619913,
    "name": "kornia-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1596425,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 07 May 2025, 10:29:01 UTC"
+ "last_update": "Thursday, 08 May 2025, 10:29:23 UTC"
 }
