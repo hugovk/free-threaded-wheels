@@ -1025,9 +1025,9 @@
   {
    "downloads": 5688416,
    "name": "onnx",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5601129,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 12 May 2025, 10:27:26 UTC"
+ "last_update": "Tuesday, 13 May 2025, 10:27:30 UTC"
 }
