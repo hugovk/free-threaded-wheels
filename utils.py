@@ -68,7 +68,7 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
                 package["css_class"] = "warning"
                 package["icon"] = "\u2717"  # Ballot X
             else:
-                package["css_class"] = "info"
+                package["css_class"] = "pure-py"
                 package["icon"] = "🐍"
         else:
             # Don't show packages with only sdists or pure Python wheels

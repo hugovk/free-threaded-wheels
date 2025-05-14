@@ -14,6 +14,22 @@
         a.btn:last-child{border-bottom-width: 1px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
         pre {text-align: left;}
         footer{text-align: center;}
+        .btn-pure-py {
+          background-color: #90EE90;
+          border-bottom-color: #90EE90;
+          border-left-color: #90EE90;
+          border-right-color: #90EE90;
+          border-top-color: #90EE90;
+          color: #000000;
+        }
+        .btn-pure-py:hover {
+          background-color: #90EE90;
+          border-bottom-color: #90EE90;
+          border-left-color: #90EE90;
+          border-right-color: #90EE90;
+          border-top-color: #90EE90;
+          color: #000000;
+        }
         @media (prefers-color-scheme: dark) {
           body {
             color: #ccc;
@@ -101,7 +117,7 @@
 
             const successPercentage = (getPackageCount('success') / totalPackages) * 100;
             const todoPercentage = (getPackageCount('warning') / totalPackages) * 100;
-            const purePyPercentage = (getPackageCount('info') / totalPackages) * 100;
+            const purePyPercentage = (getPackageCount('pure-py') / totalPackages) * 100;
 
             document.getElementById('success-percent').innerText = `(${successPercentage.toFixed(0)}%)`;
             document.getElementById('todo-percent').innerText = `(${todoPercentage.toFixed(0)}%)`;
