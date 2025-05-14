@@ -37,6 +37,7 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
 
         has_other_binary_wheel = False
         has_free_threaded_wheel = False
+        has_pure_python_wheel = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
         if response.status_code != 200:
@@ -56,13 +57,19 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
                     has_free_threaded_wheel = True
                 elif abi_tag != "none":
                     has_other_binary_wheel = True
+                else:
+                    has_pure_python_wheel = True
 
         if has_free_threaded_wheel:
             package["css_class"] = "success"
             package["icon"] = "🧵"
         elif has_other_binary_wheel:
-            package["css_class"] = "warning"
-            package["icon"] = "\u2717"  # Ballot X
+            if not has_pure_python_wheel:
+                package["css_class"] = "warning"
+                package["icon"] = "\u2717"  # Ballot X
+            else:
+                package["css_class"] = "info"
+                package["icon"] = "🐍"
         else:
             # Don't show packages with only sdists or pure Python wheels
             continue

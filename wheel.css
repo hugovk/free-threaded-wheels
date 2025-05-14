@@ -10,6 +10,12 @@
   fill: #ffc107;
 }
 
+.info {
+  stroke: #0dcaf0;
+  stroke-width: 1;
+  fill: #0dcaf0;
+}
+
 line.wheel-line {
   stroke: #333;
 }
