@@ -1620,9 +1620,9 @@
   {
    "downloads": 1695286,
    "name": "bottleneck",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1682796,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 13 May 2025, 10:27:30 UTC"
+ "last_update": "Wednesday, 14 May 2025, 10:28:26 UTC"
 }
