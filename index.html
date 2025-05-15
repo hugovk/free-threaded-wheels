@@ -14,6 +14,19 @@
         a.btn:last-child{border-bottom-width: 1px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
         pre {text-align: left;}
         footer{text-align: center;}
+        .btn-pure-py {
+          background-color: #90EE90;
+          border-color: #90EE90;
+          color: #000000;
+        }
+        .text-pure-py {
+          color: #90EE90;
+        }
+        .btn-pure-py:hover {
+          background-color: #90EE90;
+          border-color: #90EE90;
+          color: #000000;
+        }
         @media (prefers-color-scheme: dark) {
           body {
             color: #ccc;
@@ -53,7 +66,8 @@
                 <h2 id="about-list">What is this list?</h2>
                 <p>This site shows the top 360 most-downloaded packages with extensions on <a href="https://pypi.org/">PyPI</a>:</p>
                 <ul>
-                    <li><span class="text-success">Green</span> packages <span id="success-percent"></span> with a 🧵 offer free-threaded wheels</li>
+                    <li><span class="text-success">Dark green</span> packages <span id="success-percent"></span> with a 🧵 offer free-threaded wheels</li>
+                    <li><span class="text-pure-py">Light green</span> packages <span id="pure-py-percent"></span> offer generic pure Python wheels, but no compiled wheels ready for free-threading (yet!)</li>
                     <li><span class="text-warning">Orange</span> packages <span id="todo-percent"></span> offer wheels, but no wheels ready for free-threading (yet!)</li>
                 </ul>
                 <p>Free-threaded wheels have an <a href="https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention">ABI tag</a> ending in <code>t</code>, for example, <code>cp313t</code></code></pre>.</p>
@@ -100,9 +114,11 @@
 
             const successPercentage = (getPackageCount('success') / totalPackages) * 100;
             const todoPercentage = (getPackageCount('warning') / totalPackages) * 100;
+            const purePyPercentage = (getPackageCount('pure-py') / totalPackages) * 100;
 
             document.getElementById('success-percent').innerText = `(${successPercentage.toFixed(0)}%)`;
             document.getElementById('todo-percent').innerText = `(${todoPercentage.toFixed(0)}%)`;
+            document.getElementById('pure-py-percent').innerText = `(${purePyPercentage.toFixed(0)}%)`;
             });
         });
     </script>
