@@ -16,10 +16,7 @@
         footer{text-align: center;}
         .btn-pure-py {
           background-color: #90EE90;
-          border-bottom-color: #90EE90;
-          border-left-color: #90EE90;
-          border-right-color: #90EE90;
-          border-top-color: #90EE90;
+          border-color: #90EE90;
           color: #000000;
         }
         .text-pure-py {
@@ -27,10 +24,7 @@
         }
         .btn-pure-py:hover {
           background-color: #90EE90;
-          border-bottom-color: #90EE90;
-          border-left-color: #90EE90;
-          border-right-color: #90EE90;
-          border-top-color: #90EE90;
+          border-color: #90EE90;
           color: #000000;
         }
         @media (prefers-color-scheme: dark) {
@@ -72,8 +66,8 @@
                 <h2 id="about-list">What is this list?</h2>
                 <p>This site shows the top 360 most-downloaded packages with extensions on <a href="https://pypi.org/">PyPI</a>:</p>
                 <ul>
-                    <li><span class="text-success">Dark Green</span> packages <span id="success-percent"></span> with a 🧵 offer free-threaded wheels</li>
-                    <li><span class="text-pure-py">Light Green</span> packages <span id="pure-py-percent"></span> offer generic pure Python wheels, but no compiled wheels ready for free-threading (yet!)</li>
+                    <li><span class="text-success">Dark green</span> packages <span id="success-percent"></span> with a 🧵 offer free-threaded wheels</li>
+                    <li><span class="text-pure-py">Light green</span> packages <span id="pure-py-percent"></span> offer generic pure Python wheels, but no compiled wheels ready for free-threading (yet!)</li>
                     <li><span class="text-warning">Orange</span> packages <span id="todo-percent"></span> offer wheels, but no wheels ready for free-threading (yet!)</li>
                 </ul>
                 <p>Free-threaded wheels have an <a href="https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention">ABI tag</a> ending in <code>t</code>, for example, <code>cp313t</code></code></pre>.</p>
