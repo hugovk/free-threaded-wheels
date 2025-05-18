@@ -388,9 +388,9 @@
   {
    "downloads": 38476494,
    "name": "pycryptodome",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 38275564,
@@ -444,9 +444,9 @@
   {
    "downloads": 32230326,
    "name": "pycryptodomex",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 31458372,
@@ -535,9 +535,9 @@
   {
    "downloads": 23730276,
    "name": "fastavro",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 22880540,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 17 May 2025, 10:25:33 UTC"
+ "last_update": "Sunday, 18 May 2025, 10:23:27 UTC"
 }
