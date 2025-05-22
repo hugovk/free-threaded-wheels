@@ -2089,9 +2089,9 @@
   {
    "downloads": 846730,
    "name": "ndindex",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 841454,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 21 May 2025, 10:27:50 UTC"
+ "last_update": "Thursday, 22 May 2025, 10:26:57 UTC"
 }
