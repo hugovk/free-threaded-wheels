@@ -563,9 +563,9 @@
   {
    "downloads": 21512646,
    "name": "libcst",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 21086836,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 27 May 2025, 10:29:27 UTC"
+ "last_update": "Wednesday, 28 May 2025, 10:29:33 UTC"
 }
