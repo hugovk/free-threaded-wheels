@@ -2388,6 +2388,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 581018,
+   "name": "text2num",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
    "downloads": 580690,
    "name": "torchtext",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 518480,
-   "name": "mariadb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 28 May 2025, 10:29:33 UTC"
+ "last_update": "Thursday, 29 May 2025, 10:27:20 UTC"
 }
