@@ -1487,9 +1487,9 @@
   {
    "downloads": 1952274,
    "name": "pycocotools",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1938388,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 04 June 2025, 10:29:11 UTC"
+ "last_update": "Thursday, 05 June 2025, 10:30:00 UTC"
 }
