@@ -1144,9 +1144,9 @@
   {
    "downloads": 4049389,
    "name": "numexpr",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3752449,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 09 June 2025, 10:27:49 UTC"
+ "last_update": "Tuesday, 10 June 2025, 10:27:26 UTC"
 }
