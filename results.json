@@ -1,2525 +1,2525 @@
 {
  "data": [
   {
-   "downloads": 576575169,
+   "downloads": 475478935,
    "name": "charset-normalizer",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 346915151,
+   "downloads": 323757423,
    "name": "numpy",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 320120516,
+   "downloads": 294690354,
    "name": "pyyaml",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 284573759,
-   "name": "cryptography",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 283337840,
+   "downloads": 281046463,
    "name": "protobuf",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 264885012,
-   "name": "pandas",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "downloads": 279279279,
+   "name": "cryptography",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
-   "downloads": 262490368,
+   "downloads": 246506180,
    "name": "cffi",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 229172643,
-   "name": "markupsafe",
+   "downloads": 245829763,
+   "name": "pandas",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 229031552,
-   "name": "aiohttp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 202671835,
-   "name": "pydantic-core",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 198101534,
+   "downloads": 232857146,
    "name": "grpcio-tools",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 158499027,
+   "downloads": 205840960,
+   "name": "markupsafe",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 189906719,
+   "name": "pydantic-core",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 174511315,
+   "name": "aiohttp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 146841062,
    "name": "wrapt",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 154591114,
-   "name": "psutil",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 148030165,
-   "name": "pyarrow",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 146734305,
-   "name": "yarl",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 142980562,
+   "downloads": 144281422,
    "name": "tomli",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 141187733,
+   "downloads": 143492474,
+   "name": "psutil",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 136072704,
+   "name": "pyarrow",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 131334036,
    "name": "multidict",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 136928218,
-   "name": "grpcio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "downloads": 131215161,
+   "name": "yarl",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
-   "downloads": 130865790,
+   "downloads": 127170982,
    "name": "sqlalchemy",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 129101642,
-   "name": "frozenlist",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "downloads": 125243319,
+   "name": "grpcio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
-   "downloads": 122449327,
+   "downloads": 124088345,
    "name": "greenlet",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 120913625,
-   "name": "propcache",
+   "downloads": 120675147,
+   "name": "frozenlist",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 117691600,
-   "name": "pillow",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 114252751,
-   "name": "scipy",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 110329860,
-   "name": "rpds-py",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 103568896,
-   "name": "lxml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 96447272,
+   "downloads": 116291624,
    "name": "snowflake-connector-python",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 94100352,
-   "name": "coverage",
+   "downloads": 111224318,
+   "name": "pillow",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 90416959,
-   "name": "msgpack",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "downloads": 111016809,
+   "name": "rpds-py",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
-   "downloads": 87355917,
+   "downloads": 109967828,
+   "name": "propcache",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 108962425,
+   "name": "scipy",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 102367796,
    "name": "pyzmq",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 86505888,
+   "downloads": 95957456,
+   "name": "lxml",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 92668702,
+   "name": "coverage",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 91698087,
+   "name": "msgpack",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 85150473,
    "name": "pynacl",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 81353079,
+   "downloads": 78577136,
    "name": "psycopg2-binary",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 80276604,
+   "downloads": 74958002,
    "name": "regex",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 78262713,
-   "name": "scikit-learn",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 73941481,
-   "name": "google-crc32c",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 71700374,
+   "downloads": 72206848,
    "name": "bcrypt",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 69027756,
+   "downloads": 72076080,
+   "name": "scikit-learn",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 69984224,
+   "name": "google-crc32c",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 66526846,
    "name": "matplotlib",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 67547948,
+   "downloads": 61115379,
    "name": "rapidfuzz",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 61511481,
+   "downloads": 59766135,
    "name": "fonttools",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 60528308,
-   "name": "kiwisolver",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 51143917,
-   "name": "black",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 50111145,
-   "name": "zstandard",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 49652153,
-   "name": "contourpy",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 48282691,
+   "downloads": 58677293,
    "name": "websockets",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 47219296,
-   "name": "cython",
+   "downloads": 57477540,
+   "name": "kiwisolver",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 53900442,
+   "name": "black",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 46564532,
-   "name": "ruamel-yaml-clib",
+   "downloads": 52574105,
+   "name": "zstandard",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 46297644,
+   "downloads": 49046289,
+   "name": "contourpy",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 46921377,
    "name": "tornado",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 45365799,
-   "name": "dulwich",
+   "downloads": 46097526,
+   "name": "cython",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 45234724,
+   "downloads": 45103012,
+   "name": "ruamel-yaml-clib",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 44155401,
    "name": "pendulum",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 42806968,
+   "downloads": 43430022,
    "name": "orjson",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 42607608,
-   "name": "tokenizers",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "downloads": 43298242,
+   "name": "dulwich",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 42520615,
+   "downloads": 42089850,
    "name": "mypy",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 41872864,
-   "name": "multiprocess",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 41081038,
-   "name": "thriftpy2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 40323048,
-   "name": "torch",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 38476494,
-   "name": "pycryptodome",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 38275564,
-   "name": "pymongo",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 37259831,
-   "name": "watchdog",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 37252269,
-   "name": "shapely",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 36772017,
-   "name": "pyrsistent",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 36209253,
-   "name": "debugpy",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 36027586,
-   "name": "lz4",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 34356307,
-   "name": "jiter",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 32230326,
-   "name": "pycryptodomex",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 31458372,
-   "name": "setproctitle",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 31020470,
-   "name": "mysql-connector-python",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 29798693,
+   "downloads": 40996943,
    "name": "apache-beam",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 28782508,
-   "name": "tiktoken",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 26467292,
-   "name": "safetensors",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 26463502,
-   "name": "zope-interface",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 25911803,
-   "name": "lazy-object-proxy",
+   "downloads": 39763885,
+   "name": "shapely",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 24926918,
-   "name": "uvloop",
+   "downloads": 38554937,
+   "name": "tokenizers",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 24678975,
-   "name": "watchfiles",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "downloads": 37434638,
+   "name": "pycryptodome",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
-   "downloads": 24450370,
-   "name": "simplejson",
+   "downloads": 36322282,
+   "name": "mysql-connector-python",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 24339816,
+   "downloads": 35927273,
+   "name": "pymongo",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 35326344,
    "name": "gevent",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 23820092,
-   "name": "argon2-cffi-bindings",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "downloads": 35248915,
+   "name": "multiprocess",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 23730276,
-   "name": "fastavro",
+   "downloads": 35151172,
+   "name": "jiter",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 22880540,
+   "downloads": 34826525,
+   "name": "lz4",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 34136066,
+   "name": "debugpy",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 32902923,
+   "name": "pyrsistent",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 32166870,
+   "name": "torch",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 31628702,
+   "name": "watchdog",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 30322780,
+   "name": "pycryptodomex",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 29334508,
+   "name": "setproctitle",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 26397645,
+   "name": "zope-interface",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 26393314,
+   "name": "uvloop",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 26064550,
+   "name": "tiktoken",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 25943978,
+   "name": "watchfiles",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 24949689,
+   "name": "lazy-object-proxy",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 24419934,
    "name": "httptools",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 22187002,
-   "name": "sentencepiece",
+   "downloads": 23824515,
+   "name": "thriftpy2",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 22019710,
-   "name": "time-machine",
+   "downloads": 23566859,
+   "name": "simplejson",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 22689822,
+   "name": "argon2-cffi-bindings",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 21512646,
-   "name": "libcst",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "downloads": 22073114,
+   "name": "safetensors",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
-   "downloads": 21086836,
+   "downloads": 21531341,
    "name": "pyodbc",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 20814259,
-   "name": "xxhash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 20724518,
-   "name": "h5py",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 19355202,
-   "name": "confluent-kafka",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 19328133,
-   "name": "triton",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 19205327,
+   "downloads": 20464663,
    "name": "pymssql",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 18315128,
-   "name": "numba",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 18033859,
-   "name": "tensorflow",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 17671182,
-   "name": "llvmlite",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 16791170,
-   "name": "duckdb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 15760686,
-   "name": "ijson",
+   "downloads": 20433012,
+   "name": "libcst",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 15757792,
+   "downloads": 19840177,
+   "name": "confluent-kafka",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 18595398,
+   "name": "fastavro",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 18111257,
+   "name": "h5py",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 18071549,
    "name": "psycopg2",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 14667968,
-   "name": "spacy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 14586657,
-   "name": "opencv-python",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 14531823,
-   "name": "nh3",
+   "downloads": 17285608,
+   "name": "triton",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 14373109,
-   "name": "bitarray",
+   "downloads": 17102684,
+   "name": "sentencepiece",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 14194522,
-   "name": "brotli",
+   "downloads": 16815789,
+   "name": "tensorflow",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 14076355,
-   "name": "thinc",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 14045733,
-   "name": "torchvision",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 13993506,
-   "name": "blis",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 13687998,
-   "name": "statsmodels",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 13617218,
-   "name": "pywin32",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 13428963,
-   "name": "ujson",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 13043809,
-   "name": "preshed",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 13033854,
-   "name": "srsly",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 12839004,
+   "downloads": 16764942,
    "name": "mysqlclient",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 12793677,
-   "name": "cymem",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 12754182,
-   "name": "murmurhash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 12639023,
-   "name": "ddtrace",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 12147001,
-   "name": "jpype1",
+   "downloads": 16727981,
+   "name": "nh3",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 12118026,
-   "name": "onnxruntime",
+   "downloads": 16680288,
+   "name": "numba",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 16640370,
+   "name": "duckdb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 16488851,
+   "name": "ijson",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 12005581,
-   "name": "asyncpg",
+   "downloads": 16415060,
+   "name": "llvmlite",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 11662341,
-   "name": "marisa-trie",
+   "downloads": 16025240,
+   "name": "xxhash",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 10859233,
-   "name": "dbt-extractor",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 10839712,
-   "name": "scikit-image",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 10635924,
-   "name": "polars",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 10514584,
-   "name": "cramjam",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 10300033,
-   "name": "ml-dtypes",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 10202943,
-   "name": "torchaudio",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 9986780,
-   "name": "mmh3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 9551211,
-   "name": "levenshtein",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 9191032,
-   "name": "oracledb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8911763,
-   "name": "psycopg-binary",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8867008,
-   "name": "pyproj",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8531350,
-   "name": "deltalake",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8444149,
-   "name": "opencv-python-headless",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8370020,
-   "name": "pyroaring",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 8150261,
-   "name": "msgspec",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 7889543,
-   "name": "fastparquet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 7840807,
-   "name": "frozendict",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 7480506,
-   "name": "tensorflow-io-gcs-filesystem",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 7361176,
-   "name": "pymupdf",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6956562,
-   "name": "tree-sitter",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6946107,
-   "name": "pemja",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6942773,
-   "name": "apache-flink",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6731235,
-   "name": "backports-zoneinfo",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6676081,
-   "name": "ciso8601",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6609181,
-   "name": "typed-ast",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6074902,
-   "name": "jellyfish",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6047746,
-   "name": "fasttext-wheel",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 6017563,
-   "name": "shap",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5842518,
-   "name": "pycares",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5738632,
-   "name": "ray",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5709541,
-   "name": "pyiceberg",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5692231,
-   "name": "maxminddb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5688416,
-   "name": "onnx",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 5601129,
-   "name": "pywavelets",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 5522743,
-   "name": "av",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5478902,
-   "name": "faiss-cpu",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5446814,
-   "name": "tensorflow-text",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5372916,
-   "name": "h3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 5201306,
-   "name": "jaxlib",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 5131319,
-   "name": "xmlsec",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4991878,
-   "name": "clickhouse-connect",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4908489,
-   "name": "awscrt",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4906234,
-   "name": "logbook",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4874342,
-   "name": "google-re2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4831932,
-   "name": "optree",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 4752588,
-   "name": "hiredis",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4628567,
-   "name": "cassandra-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4600070,
-   "name": "chroma-hnswlib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4366078,
-   "name": "openlineage-sql",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 4049389,
-   "name": "numexpr",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 3752449,
-   "name": "gensim",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3682767,
-   "name": "chromadb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3607757,
-   "name": "amazon-ion",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3542654,
-   "name": "cx-oracle",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3540438,
-   "name": "tf-nightly",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3538389,
-   "name": "fiona",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3387964,
-   "name": "pyogrio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3319715,
-   "name": "memray",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3294884,
-   "name": "uamqp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3090932,
-   "name": "mmcif",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3055295,
-   "name": "geventhttpclient",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3052164,
-   "name": "gssapi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2942802,
-   "name": "zopfli",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2817480,
-   "name": "clickhouse-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2816536,
-   "name": "biotite",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2802403,
-   "name": "python-box",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2794404,
-   "name": "krb5",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2778376,
-   "name": "cytoolz",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2743390,
-   "name": "backports-datetime-fromisoformat",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2675787,
-   "name": "aiokafka",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2639059,
-   "name": "kerberos",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2583566,
-   "name": "plyvel",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2579277,
-   "name": "timezonefinder",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2573896,
-   "name": "rustworkx",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2518435,
-   "name": "pyzstd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2474715,
-   "name": "sspilib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2382874,
-   "name": "pikepdf",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2371882,
-   "name": "pyinstrument",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2353247,
-   "name": "ormsgpack",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2325942,
-   "name": "netifaces",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2314348,
-   "name": "biopython",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2311795,
-   "name": "python-bidi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2310034,
-   "name": "xformers",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2308183,
-   "name": "mmhash3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2266067,
-   "name": "sqlglotrs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2265579,
-   "name": "catboost",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2251570,
-   "name": "cbor2",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2249247,
-   "name": "temporalio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2184603,
-   "name": "pygit2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2113976,
-   "name": "dm-tree",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 2093300,
-   "name": "newrelic",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2055264,
-   "name": "dependency-injector",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2030788,
-   "name": "soxr",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2024083,
-   "name": "pillow-heif",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 2007273,
-   "name": "opencv-contrib-python",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1991193,
-   "name": "pycurl",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1986781,
-   "name": "pmdarima",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1982416,
-   "name": "jq",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1952274,
-   "name": "pycocotools",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1938388,
-   "name": "osqp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1930852,
-   "name": "pybcj",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1926421,
-   "name": "lupa",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1924233,
-   "name": "pyppmd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1920982,
-   "name": "caio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1912509,
-   "name": "rasterio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1909410,
-   "name": "python-crfsuite",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1898427,
-   "name": "pyqt5",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1801046,
-   "name": "zstd",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1793416,
-   "name": "pygeohash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1758045,
-   "name": "blake3",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1756685,
-   "name": "pyqt5-sip",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1755403,
-   "name": "astropy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1745104,
-   "name": "scandir",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1728156,
-   "name": "onnxruntime-gpu",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1725809,
-   "name": "tensorstore",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1707090,
-   "name": "ortools",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1701257,
-   "name": "python-rapidjson",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1695286,
-   "name": "bottleneck",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1682796,
-   "name": "ctranslate2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1653973,
-   "name": "inflate64",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1640384,
-   "name": "cvxpy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1619913,
-   "name": "kornia-rs",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1596425,
-   "name": "zeroconf",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1561168,
-   "name": "pyclipper",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1551439,
-   "name": "simsimd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1550034,
-   "name": "ckzg",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1544057,
-   "name": "netcdf4",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1534689,
-   "name": "lru-dict",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1527910,
-   "name": "correctionlib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1518122,
-   "name": "pygame",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1512506,
-   "name": "pywinpty",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1503490,
-   "name": "wordcloud",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1500429,
-   "name": "lmdb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1497881,
-   "name": "vllm",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1457470,
-   "name": "cftime",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1443608,
-   "name": "pyerfa",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1438193,
-   "name": "xgrammar",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1401006,
-   "name": "hdbcli",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1399197,
-   "name": "scs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1397935,
-   "name": "apache-sedona",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1325955,
-   "name": "editdistance",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1310289,
-   "name": "immutables",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1297466,
-   "name": "stringzilla",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1293056,
-   "name": "decord",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1284882,
-   "name": "tzfpy",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1282732,
-   "name": "curl-cffi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1240030,
-   "name": "outlines-core",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1220760,
-   "name": "clarabel",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1217707,
-   "name": "igraph",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1213455,
-   "name": "pybase64",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1199688,
-   "name": "djlint",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1184111,
-   "name": "opencv-contrib-python-headless",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1173604,
-   "name": "numcodecs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1171117,
-   "name": "ephem",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1170950,
-   "name": "ibm-db",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1168971,
-   "name": "regress",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1161549,
-   "name": "blosc2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1144706,
-   "name": "fastrlock",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1116276,
-   "name": "hf-transfer",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1112126,
-   "name": "deptry",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1095913,
-   "name": "xattr",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1081048,
-   "name": "bitstruct",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1077367,
-   "name": "tree-sitter-python",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1071615,
-   "name": "mediapipe",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1060154,
-   "name": "pycairo",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1043334,
-   "name": "frida",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1032665,
-   "name": "pyhmmer",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1022339,
-   "name": "pillow-avif-plugin",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1010368,
-   "name": "cupy-cuda12x",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1003196,
-   "name": "sudachipy",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 993410,
-   "name": "tables",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 983803,
-   "name": "primp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 975277,
-   "name": "opencc",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 967195,
-   "name": "grimp",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 964314,
-   "name": "pylsqpack",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 963109,
-   "name": "crc32c",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 941303,
-   "name": "aioquic",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 927493,
-   "name": "tree-sitter-javascript",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 911337,
-   "name": "uuid-utils",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 896736,
-   "name": "llguidance",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 892930,
+   "downloads": 14531328,
    "name": "hf-xet",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 890262,
-   "name": "tensorflow-addons",
+   "downloads": 14118952,
+   "name": "time-machine",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 881413,
-   "name": "rcssmin",
+   "downloads": 13939269,
+   "name": "pywin32",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 13600432,
+   "name": "polars",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 13503099,
+   "name": "opencv-python",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 13375745,
+   "name": "brotli",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 13034142,
+   "name": "asyncpg",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 12749056,
+   "name": "torchvision",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 880011,
-   "name": "y-py",
+   "downloads": 12701385,
+   "name": "statsmodels",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 12698771,
+   "name": "ujson",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 12508885,
+   "name": "jpype1",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 12393842,
+   "name": "bitarray",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 11321255,
+   "name": "onnxruntime",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 11237864,
+   "name": "dbt-extractor",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 11064499,
+   "name": "ray",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10884905,
+   "name": "ddtrace",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10846646,
+   "name": "oracledb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10652096,
+   "name": "spacy",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10374239,
+   "name": "deltalake",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10290305,
+   "name": "msgspec",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10073523,
+   "name": "pyiceberg",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10071229,
+   "name": "cramjam",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 10014532,
+   "name": "scikit-image",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 9794640,
+   "name": "ml-dtypes",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 9685501,
+   "name": "thinc",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 9662946,
+   "name": "blis",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 9195299,
+   "name": "srsly",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 9188170,
+   "name": "levenshtein",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8997597,
+   "name": "murmurhash",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8974492,
+   "name": "cymem",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8920456,
+   "name": "preshed",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8846575,
+   "name": "mmh3",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8295006,
+   "name": "ciso8601",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8187895,
+   "name": "pyproj",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 8165209,
+   "name": "pyroaring",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7863842,
+   "name": "marisa-trie",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7673767,
+   "name": "fastparquet",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7648708,
+   "name": "opencv-python-headless",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7533749,
+   "name": "psycopg-binary",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7250612,
+   "name": "pymupdf",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 7157094,
+   "name": "tensorflow-io-gcs-filesystem",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 6753451,
+   "name": "frozendict",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 846730,
+   "downloads": 6728025,
+   "name": "typed-ast",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 6300786,
+   "name": "backports-zoneinfo",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 6280372,
+   "name": "torchaudio",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 6102759,
+   "name": "numexpr",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 6102447,
+   "name": "faiss-cpu",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 6062968,
+   "name": "maxminddb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 6030600,
+   "name": "xmlsec",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5861119,
+   "name": "openlineage-sql",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5852130,
+   "name": "jellyfish",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5704669,
+   "name": "pycares",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5622276,
+   "name": "cassandra-driver",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5520151,
+   "name": "memray",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5310271,
+   "name": "pywavelets",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 5281284,
+   "name": "onnx",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 5273627,
+   "name": "av",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5097204,
+   "name": "shap",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 5051275,
+   "name": "optree",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 5050063,
+   "name": "logbook",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4991981,
+   "name": "tensorflow-text",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4974429,
+   "name": "clickhouse-connect",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4914276,
+   "name": "h3",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4836551,
+   "name": "jaxlib",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 4794751,
+   "name": "awscrt",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4550988,
+   "name": "hiredis",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4420288,
+   "name": "gssapi",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4317734,
+   "name": "amazon-ion",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4187671,
+   "name": "krb5",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 4022460,
+   "name": "tree-sitter",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3970219,
+   "name": "kerberos",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3887000,
+   "name": "google-re2",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3778601,
+   "name": "gensim",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3760722,
+   "name": "plyvel",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3722300,
+   "name": "sspilib",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3489014,
+   "name": "backports-datetime-fromisoformat",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3484557,
+   "name": "chromadb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3434273,
+   "name": "correctionlib",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3361047,
+   "name": "pyogrio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3272835,
+   "name": "fiona",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3231519,
+   "name": "mmhash3",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3181158,
+   "name": "cx-oracle",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3178608,
+   "name": "chroma-hnswlib",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3162305,
+   "name": "clickhouse-driver",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3138798,
+   "name": "fasttext-wheel",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3131827,
+   "name": "temporalio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3044544,
+   "name": "ormsgpack",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2983183,
+   "name": "zopfli",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2886568,
+   "name": "uamqp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2853584,
+   "name": "geventhttpclient",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2776546,
+   "name": "pyzstd",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2678947,
+   "name": "curl-cffi",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2666860,
+   "name": "blosc2",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2577383,
+   "name": "timezonefinder",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2542310,
+   "name": "rustworkx",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2417927,
+   "name": "tables",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2412348,
+   "name": "python-box",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2349231,
    "name": "ndindex",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 841454,
-   "name": "mitmproxy-rs",
+   "downloads": 2228518,
+   "name": "xformers",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 840854,
-   "name": "pyahocorasick",
+   "downloads": 2228381,
+   "name": "pyinstrument",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 832610,
-   "name": "iminuit",
+   "downloads": 2218584,
+   "name": "cbor2",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2211366,
+   "name": "pygit2",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 825217,
-   "name": "isal",
+   "downloads": 2198193,
+   "name": "tf-nightly",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 820137,
-   "name": "apsw",
+   "downloads": 2196063,
+   "name": "aiokafka",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 819731,
-   "name": "fasttext",
+   "downloads": 2189574,
+   "name": "cytoolz",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 816184,
-   "name": "array-record",
+   "downloads": 2126814,
+   "name": "python-bidi",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 807630,
-   "name": "boost-histogram",
+   "downloads": 2108457,
+   "name": "pmdarima",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2081445,
+   "name": "catboost",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2076439,
+   "name": "astropy",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2072508,
+   "name": "soxr",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2057667,
+   "name": "pikepdf",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2002867,
+   "name": "bottleneck",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 803764,
+   "downloads": 2000655,
+   "name": "sqlglotrs",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1979442,
+   "name": "pybcj",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1940333,
+   "name": "zstd",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1932268,
+   "name": "pyqt5",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1911199,
+   "name": "dependency-injector",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1904841,
+   "name": "newrelic",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1897007,
+   "name": "pycurl",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1843748,
+   "name": "blake3",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1826192,
+   "name": "pyppmd",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1821423,
+   "name": "biopython",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1800105,
+   "name": "pyqt5-sip",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1795539,
+   "name": "python-crfsuite",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1792020,
+   "name": "pyerfa",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1785291,
+   "name": "dm-tree",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1782018,
+   "name": "jq",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1780131,
+   "name": "opencv-contrib-python",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1745766,
+   "name": "osqp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1728150,
+   "name": "vllm",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1686588,
+   "name": "netifaces",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1676149,
+   "name": "rasterio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1674477,
+   "name": "pillow-heif",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1661561,
+   "name": "xgrammar",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1660738,
+   "name": "inflate64",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1660166,
+   "name": "caio",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1649704,
+   "name": "biotite",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1644534,
+   "name": "pycocotools",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1642512,
+   "name": "onnxruntime-gpu",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1634829,
+   "name": "lupa",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1606545,
+   "name": "kornia-rs",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1568313,
+   "name": "python-rapidjson",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1564974,
+   "name": "pygeohash",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1548659,
+   "name": "scandir",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1546352,
+   "name": "pemja",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1538432,
+   "name": "apache-flink",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1537439,
+   "name": "cvxpy",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1530540,
+   "name": "mmcif",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1489390,
+   "name": "ortools",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1484007,
+   "name": "netcdf4",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1473444,
+   "name": "tensorstore",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1458129,
+   "name": "pyclipper",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1451028,
+   "name": "lru-dict",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1409434,
+   "name": "simsimd",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1406017,
+   "name": "cftime",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1396154,
+   "name": "pygame",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1370421,
+   "name": "scs",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1370159,
+   "name": "wordcloud",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1349881,
+   "name": "pywinpty",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1306678,
+   "name": "ctranslate2",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1278690,
+   "name": "lmdb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1267316,
+   "name": "sudachipy",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1261670,
+   "name": "zeroconf",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1253374,
+   "name": "regress",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1227089,
+   "name": "fastrlock",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1219841,
+   "name": "hdbcli",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1218776,
+   "name": "outlines-core",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1216695,
+   "name": "ckzg",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1209319,
+   "name": "apache-sedona",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1203509,
+   "name": "clarabel",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1199285,
+   "name": "hf-transfer",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1188816,
+   "name": "pybase64",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1178380,
+   "name": "immutables",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1167290,
+   "name": "tzfpy",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1123821,
+   "name": "stringzilla",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1105556,
+   "name": "cupy-cuda12x",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1104798,
+   "name": "ibm-db",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1094534,
+   "name": "deptry",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1087432,
+   "name": "xattr",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1073781,
+   "name": "numcodecs",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1061221,
+   "name": "pycairo",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1056031,
+   "name": "djlint",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1015483,
+   "name": "llguidance",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1015374,
+   "name": "tree-sitter-python",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 986107,
+   "name": "frida",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 949035,
+   "name": "bitstruct",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 946970,
+   "name": "mediapipe",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 934351,
+   "name": "opencv-contrib-python-headless",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 927769,
+   "name": "pillow-avif-plugin",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 909798,
+   "name": "pylsqpack",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 894286,
+   "name": "igraph",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 886779,
+   "name": "editdistance",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 876148,
+   "name": "crc32c",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 872095,
    "name": "tink",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 796209,
+   "downloads": 854198,
+   "name": "primp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 853509,
+   "name": "ephem",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 849486,
+   "name": "fasttext",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 846583,
+   "name": "y-py",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 846547,
+   "name": "aioquic",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 843612,
+   "name": "tree-sitter-javascript",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 840541,
+   "name": "uuid-utils",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 829839,
+   "name": "pyahocorasick",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 823320,
+   "name": "decord",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 787808,
+   "name": "tensorflow-addons",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 787606,
    "name": "rdkit",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 793882,
-   "name": "vtk",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 789608,
-   "name": "rtoml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 779433,
+   "downloads": 781389,
    "name": "statsforecast",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 777356,
-   "name": "yappi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 770094,
-   "name": "brotlipy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 767341,
-   "name": "awslambdaric",
+   "downloads": 779506,
+   "name": "rcssmin",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
   },
   {
-   "downloads": 764246,
-   "name": "rjsmin",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 742978,
-   "name": "libsass",
+   "downloads": 777511,
+   "name": "apsw",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 711464,
-   "name": "wasmer",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 707766,
-   "name": "guppy3",
+   "downloads": 743859,
+   "name": "statsig-python-core",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 700389,
-   "name": "phik",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 693736,
-   "name": "tree-sitter-yaml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 686534,
-   "name": "wasmer-compiler-cranelift",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 685186,
+   "downloads": 728797,
    "name": "line-profiler",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 672402,
-   "name": "tensorflow-cpu",
+   "downloads": 710190,
+   "name": "grimp",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 706923,
+   "name": "brotlipy",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 648551,
-   "name": "azureml-dataprep-rslex",
+   "downloads": 706416,
+   "name": "awslambdaric",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 705132,
+   "name": "mitmproxy-rs",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 645764,
-   "name": "lancedb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "downloads": 702834,
+   "name": "rjsmin",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
-   "downloads": 644251,
-   "name": "mecab-python3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 638732,
-   "name": "subprocess32",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 638005,
+   "downloads": 693387,
    "name": "open3d",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 630385,
-   "name": "mapbox-earcut",
+   "downloads": 688819,
+   "name": "tree-sitter-yaml",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 629474,
-   "name": "pulsar-client",
+   "downloads": 682066,
+   "name": "libsass",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 625461,
-   "name": "pysam",
+   "downloads": 656798,
+   "name": "tensorflow-cpu",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 621952,
-   "name": "quantlib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 617101,
-   "name": "tmtools",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 614139,
-   "name": "tensorflow-io",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 610567,
-   "name": "shiboken6",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 608974,
-   "name": "cheetah3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 603758,
-   "name": "hdbscan",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 603029,
-   "name": "pyside6-essentials",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 600258,
-   "name": "pyqt6",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 588906,
-   "name": "pyside6",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 581018,
-   "name": "text2num",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 580690,
-   "name": "torchtext",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 578043,
-   "name": "annoy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 577686,
-   "name": "pyside6-addons",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 569379,
+   "downloads": 656417,
    "name": "coreforecast",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 560896,
-   "name": "python-calamine",
+   "downloads": 654764,
+   "name": "yappi",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 554720,
-   "name": "ecos",
+   "downloads": 652414,
+   "name": "mecab-python3",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 551999,
-   "name": "dbus-fast",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 550036,
-   "name": "tree-sitter-go",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 549066,
-   "name": "tree-sitter-xml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 548182,
-   "name": "pymatgen",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 543803,
-   "name": "cuda-bindings",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 542337,
-   "name": "tree-sitter-rust",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 542171,
+   "downloads": 649630,
    "name": "tree-sitter-languages",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 528820,
-   "name": "tree-sitter-java",
+   "downloads": 638155,
+   "name": "python-calamine",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 527061,
-   "name": "lingua-language-detector",
+   "downloads": 632967,
+   "name": "phik",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 523738,
-   "name": "manifold3d",
+   "downloads": 631529,
+   "name": "vtk",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 522448,
+   "downloads": 625783,
+   "name": "brotlicffi",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 625625,
+   "name": "subprocess32",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 622218,
+   "name": "quantlib",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 617570,
+   "name": "isal",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 616206,
+   "name": "pyqt6",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 609600,
    "name": "mutf8",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
-   "downloads": 520811,
-   "name": "azureml-dataprep-native",
+   "downloads": 599802,
+   "name": "mariadb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 597552,
+   "name": "pulsar-client",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 596893,
+   "name": "pyhmmer",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 591697,
+   "name": "shiboken6",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 588182,
+   "name": "array-record",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 583468,
+   "name": "pyside6-essentials",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 580244,
+   "name": "pyqt6-sip",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 569224,
+   "name": "mapbox-earcut",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 567582,
+   "name": "lancedb",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 561482,
+   "name": "imagecodecs",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 558398,
+   "name": "pyside6",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 553672,
+   "name": "pyside6-addons",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 553604,
+   "name": "guppy3",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 550574,
+   "name": "cheetah3",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 547341,
+   "name": "tree-sitter-java",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 545375,
+   "name": "pysam",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 544117,
+   "name": "tree-sitter-go",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 537128,
+   "name": "tensorflow-io",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 536733,
+   "name": "selectolax",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 534499,
+   "name": "tree-sitter-rust",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 532654,
+   "name": "hdbscan",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 516147,
+   "name": "audioop-lts",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
+   "downloads": 510153,
+   "name": "jsonnet",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 507705,
+   "name": "tree-sitter-xml",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 502164,
+   "name": "manifold3d",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 498650,
+   "name": "flpc",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 496607,
+   "name": "tree-sitter-cpp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 488687,
+   "name": "cvxopt",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 484984,
+   "name": "annoy",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 483626,
+   "name": "ecos",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 482420,
+   "name": "pyfarmhash",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 478844,
+   "name": "cuda-bindings",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 475067,
+   "name": "psygnal",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 472432,
+   "name": "vhacdx",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 13 June 2025, 10:26:46 UTC"
+ "last_update": "Saturday, 14 June 2025, 10:23:47 UTC"
 }
