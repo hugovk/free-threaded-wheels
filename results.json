@@ -493,9 +493,9 @@
   {
    "downloads": 25943978,
    "name": "watchfiles",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 24949689,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 15 June 2025, 10:26:57 UTC"
+ "last_update": "Monday, 16 June 2025, 10:28:06 UTC"
 }
