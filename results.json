@@ -1669,9 +1669,9 @@
   {
    "downloads": 1546352,
    "name": "pemja",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1538432,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 23 June 2025, 10:28:31 UTC"
+ "last_update": "Tuesday, 24 June 2025, 10:29:25 UTC"
 }
