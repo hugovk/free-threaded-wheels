@@ -1704,9 +1704,9 @@
   {
    "downloads": 2104874,
    "name": "simsimd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2093658,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 06 July 2025, 10:27:04 UTC"
+ "last_update": "Monday, 07 July 2025, 10:28:47 UTC"
 }
