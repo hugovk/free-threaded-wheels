@@ -1886,8 +1886,8 @@
   {
    "downloads": 1686690,
    "name": "lmdb",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 09 July 2025, 10:30:35 UTC"
+ "last_update": "Thursday, 10 July 2025, 10:30:07 UTC"
 }
