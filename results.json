@@ -668,9 +668,9 @@
   {
    "downloads": 19067577,
    "name": "thriftpy2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 18791572,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 14 July 2025, 10:28:43 UTC"
+ "last_update": "Tuesday, 15 July 2025, 10:28:15 UTC"
 }
