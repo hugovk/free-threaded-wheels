@@ -2068,8 +2068,8 @@
   {
    "downloads": 1212904,
    "name": "whenever",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 24 July 2025, 10:31:10 UTC"
+ "last_update": "Friday, 25 July 2025, 10:32:12 UTC"
 }
