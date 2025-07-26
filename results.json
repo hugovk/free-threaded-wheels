@@ -941,9 +941,9 @@
   {
    "downloads": 9574005,
    "name": "maxminddb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9424381,
@@ -1697,9 +1697,9 @@
   {
    "downloads": 2121213,
    "name": "pygeohash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2104874,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 25 July 2025, 10:32:12 UTC"
+ "last_update": "Saturday, 26 July 2025, 10:26:05 UTC"
 }
