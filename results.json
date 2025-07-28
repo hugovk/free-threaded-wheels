@@ -759,9 +759,9 @@
   {
    "downloads": 14085156,
    "name": "cramjam",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 13927923,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 27 July 2025, 10:26:40 UTC"
+ "last_update": "Monday, 28 July 2025, 10:31:54 UTC"
 }
