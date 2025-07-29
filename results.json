@@ -794,9 +794,9 @@
   {
    "downloads": 13495070,
    "name": "mmh3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 13387000,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 28 July 2025, 10:31:54 UTC"
+ "last_update": "Tuesday, 29 July 2025, 10:29:33 UTC"
 }
