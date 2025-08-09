@@ -1221,9 +1221,9 @@
   {
    "downloads": 4919601,
    "name": "memray",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4917710,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 08 August 2025, 10:28:50 UTC"
+ "last_update": "Saturday, 09 August 2025, 10:25:39 UTC"
 }
