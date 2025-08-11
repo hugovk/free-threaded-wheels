@@ -1053,9 +1053,9 @@
   {
    "downloads": 7653452,
    "name": "h3",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 7562291,
@@ -1305,9 +1305,9 @@
   {
    "downloads": 4089238,
    "name": "pyinstrument",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4023652,
@@ -1837,9 +1837,9 @@
   {
    "downloads": 1945528,
    "name": "scs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1940558,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 10 August 2025, 10:26:43 UTC"
+ "last_update": "Monday, 11 August 2025, 10:30:00 UTC"
 }
