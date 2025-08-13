@@ -948,9 +948,9 @@
   {
    "downloads": 9997438,
    "name": "faiss-cpu",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9582476,
@@ -1851,9 +1851,9 @@
   {
    "downloads": 1931845,
    "name": "blosc2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1929136,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 12 August 2025, 10:29:50 UTC"
+ "last_update": "Wednesday, 13 August 2025, 10:30:24 UTC"
 }
