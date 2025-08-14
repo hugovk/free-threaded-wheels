@@ -2073,6 +2073,13 @@
    "free_threaded_wheel": true
   },
   {
+   "downloads": 1473783,
+   "name": "artifacts-keyring",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
    "downloads": 1458850,
    "name": "uuid-utils",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 923025,
-   "name": "pyside6-addons",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 13 August 2025, 10:30:24 UTC"
+ "last_update": "Thursday, 14 August 2025, 10:32:54 UTC"
 }
