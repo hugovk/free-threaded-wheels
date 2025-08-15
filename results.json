@@ -269,9 +269,9 @@
   {
    "downloads": 94980400,
    "name": "fonttools",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 92431369,
@@ -836,9 +836,9 @@
   {
    "downloads": 12972979,
    "name": "pyproj",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 12540679,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 14 August 2025, 10:32:54 UTC"
+ "last_update": "Friday, 15 August 2025, 10:28:52 UTC"
 }
