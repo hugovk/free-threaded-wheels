@@ -654,9 +654,9 @@
   {
    "downloads": 21456228,
    "name": "ujson",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 21017838,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 20 August 2025, 10:26:26 UTC"
+ "last_update": "Thursday, 21 August 2025, 10:27:32 UTC"
 }
