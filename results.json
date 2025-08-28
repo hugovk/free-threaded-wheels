@@ -262,9 +262,9 @@
   {
    "downloads": 96101922,
    "name": "rapidfuzz",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 94980400,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 27 August 2025, 10:24:25 UTC"
+ "last_update": "Thursday, 28 August 2025, 10:26:35 UTC"
 }
