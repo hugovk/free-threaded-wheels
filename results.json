@@ -955,9 +955,9 @@
   {
    "downloads": 9582476,
    "name": "av",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9232313,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 29 August 2025, 10:26:50 UTC"
+ "last_update": "Saturday, 30 August 2025, 10:21:42 UTC"
 }
