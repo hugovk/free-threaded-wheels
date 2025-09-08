@@ -1312,9 +1312,9 @@
   {
    "downloads": 4570516,
    "name": "soxr",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4290218,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 07 September 2025, 10:21:47 UTC"
+ "last_update": "Monday, 08 September 2025, 10:26:26 UTC"
 }
