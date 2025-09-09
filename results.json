@@ -38,9 +38,9 @@
   {
    "downloads": 403065891,
    "name": "cffi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 362776723,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 08 September 2025, 10:26:26 UTC"
+ "last_update": "Tuesday, 09 September 2025, 10:25:43 UTC"
 }
