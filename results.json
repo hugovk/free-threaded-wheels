@@ -997,9 +997,9 @@
   {
    "downloads": 9003014,
    "name": "pycares",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 8977417,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 09 September 2025, 10:25:43 UTC"
+ "last_update": "Wednesday, 10 September 2025, 10:25:30 UTC"
 }
