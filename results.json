@@ -199,9 +199,9 @@
   {
    "downloads": 136505590,
    "name": "pynacl",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 135991975,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 10 September 2025, 10:25:30 UTC"
+ "last_update": "Thursday, 11 September 2025, 10:24:35 UTC"
 }
