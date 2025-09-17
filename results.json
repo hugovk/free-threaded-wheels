@@ -24,9 +24,9 @@
   {
    "downloads": 449687653,
    "name": "cryptography",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 407416033,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 16 September 2025, 10:25:08 UTC"
+ "last_update": "Wednesday, 17 September 2025, 10:43:59 UTC"
 }
