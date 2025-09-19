@@ -192,9 +192,9 @@
   {
    "downloads": 146082067,
    "name": "regex",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 136505590,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 18 September 2025, 10:25:14 UTC"
+ "last_update": "Friday, 19 September 2025, 10:25:41 UTC"
 }
