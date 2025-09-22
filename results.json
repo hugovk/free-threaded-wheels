@@ -178,9 +178,9 @@
   {
    "downloads": 177021252,
    "name": "lxml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 149744221,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 21 September 2025, 10:21:30 UTC"
+ "last_update": "Monday, 22 September 2025, 10:26:42 UTC"
 }
