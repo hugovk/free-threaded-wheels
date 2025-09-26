@@ -17,9 +17,9 @@
   {
    "downloads": 483348136,
    "name": "pyyaml",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 449687653,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 25 September 2025, 10:25:13 UTC"
+ "last_update": "Friday, 26 September 2025, 10:26:51 UTC"
 }
