@@ -2068,9 +2068,9 @@
   {
    "downloads": 1780863,
    "name": "pyjson5",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1780493,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 01 October 2025, 10:27:09 UTC"
+ "last_update": "Thursday, 02 October 2025, 10:23:19 UTC"
 }
