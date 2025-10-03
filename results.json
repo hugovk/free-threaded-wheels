@@ -591,9 +591,9 @@
   {
    "downloads": 30837984,
    "name": "xxhash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 29156319,
@@ -657,13 +657,6 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
-  },
-  {
-   "downloads": 25122878,
-   "name": "polars",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   },
   {
    "downloads": 24556146,
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1020243,
+   "name": "coreforecast",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 02 October 2025, 10:23:19 UTC"
+ "last_update": "Friday, 03 October 2025, 10:23:55 UTC"
 }
