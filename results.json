@@ -997,9 +997,9 @@
   {
    "downloads": 9663638,
    "name": "av",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 9652044,
@@ -2082,9 +2082,9 @@
   {
    "downloads": 1771641,
    "name": "zeroconf",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1747902,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 04 October 2025, 10:22:53 UTC"
+ "last_update": "Sunday, 05 October 2025, 10:22:52 UTC"
 }
