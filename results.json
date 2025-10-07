@@ -66,9 +66,9 @@
   {
    "downloads": 249665166,
    "name": "aiohttp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 243644493,
@@ -409,9 +409,9 @@
   {
    "downloads": 57992433,
    "name": "tiktoken",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 57990686,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 06 October 2025, 10:26:18 UTC"
+ "last_update": "Tuesday, 07 October 2025, 10:27:04 UTC"
 }
