@@ -199,9 +199,9 @@
   {
    "downloads": 153148111,
    "name": "msgpack",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 145898082,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 07 October 2025, 10:27:04 UTC"
+ "last_update": "Wednesday, 08 October 2025, 10:26:19 UTC"
 }
