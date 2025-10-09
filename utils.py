@@ -15,6 +15,7 @@ DEPRECATED_PACKAGES = {
     "pycrypto",
     "pypular",
     "sklearn",
+    "y-py",
 }
 
 # Keep responses for one hour
