@@ -129,9 +129,9 @@
   {
    "downloads": 215377780,
    "name": "tomli",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 213024018,
@@ -1032,9 +1032,9 @@
   {
    "downloads": 9196394,
    "name": "ormsgpack",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9145741,
@@ -1872,9 +1872,9 @@
   {
    "downloads": 2298975,
    "name": "regress",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2265269,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 08 October 2025, 10:26:19 UTC"
+ "last_update": "Thursday, 09 October 2025, 10:28:20 UTC"
 }
