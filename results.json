@@ -542,9 +542,9 @@
   {
    "downloads": 35000524,
    "name": "confluent-kafka",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 33206959,
@@ -2325,13 +2325,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 1278313,
-   "name": "y-py",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 1273401,
    "name": "tree-sitter-language-pack",
    "css_class": "warning",
@@ -2362,9 +2355,9 @@
   {
    "downloads": 1242987,
    "name": "cuda-bindings",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1197886,
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1016523,
+   "name": "wasmer",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 09 October 2025, 10:28:20 UTC"
+ "last_update": "Friday, 10 October 2025, 07:10:57 UTC"
 }
