@@ -997,9 +997,9 @@
   {
    "downloads": 9663638,
    "name": "av",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9652044,
@@ -1326,9 +1326,9 @@
   {
    "downloads": 4595574,
    "name": "arro3-core",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4583970,
@@ -2040,9 +2040,9 @@
   {
    "downloads": 1832915,
    "name": "xattr",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1801930,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 13 October 2025, 10:29:18 UTC"
+ "last_update": "Tuesday, 14 October 2025, 10:26:04 UTC"
 }
