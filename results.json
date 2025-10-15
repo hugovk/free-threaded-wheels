@@ -1011,9 +1011,9 @@
   {
    "downloads": 9588880,
    "name": "hiredis",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9581087,
@@ -1823,9 +1823,9 @@
   {
    "downloads": 2405817,
    "name": "lmdb",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2381265,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 14 October 2025, 10:26:04 UTC"
+ "last_update": "Wednesday, 15 October 2025, 10:27:11 UTC"
 }
