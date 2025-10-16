@@ -1730,6 +1730,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 2696415,
+   "name": "autobahn",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 2693732,
    "name": "pygeohash",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 1016523,
-   "name": "wasmer",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 15 October 2025, 10:27:11 UTC"
+ "last_update": "Thursday, 16 October 2025, 10:28:16 UTC"
 }
