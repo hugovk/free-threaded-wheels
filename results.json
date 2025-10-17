@@ -381,9 +381,9 @@
   {
    "downloads": 63194405,
    "name": "uvloop",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 60534136,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 16 October 2025, 10:28:16 UTC"
+ "last_update": "Friday, 17 October 2025, 10:27:39 UTC"
 }
