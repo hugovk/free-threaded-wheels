@@ -584,9 +584,9 @@
   {
    "downloads": 31205575,
    "name": "pyodbc",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 30837984,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 17 October 2025, 10:27:39 UTC"
+ "last_update": "Saturday, 18 October 2025, 10:23:41 UTC"
 }
