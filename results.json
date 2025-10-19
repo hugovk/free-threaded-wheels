@@ -1452,9 +1452,9 @@
   {
    "downloads": 3660814,
    "name": "cytoolz",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3635800,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 18 October 2025, 10:23:41 UTC"
+ "last_update": "Sunday, 19 October 2025, 10:22:14 UTC"
 }
