@@ -1501,9 +1501,9 @@
   {
    "downloads": 3396672,
    "name": "pygit2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3384277,
@@ -1515,9 +1515,9 @@
   {
    "downloads": 3346404,
    "name": "lupa",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3334215,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 23 October 2025, 10:27:00 UTC"
+ "last_update": "Friday, 24 October 2025, 10:27:34 UTC"
 }
