@@ -416,9 +416,9 @@
   {
    "downloads": 57990686,
    "name": "hf-xet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 57460529,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 24 October 2025, 10:27:34 UTC"
+ "last_update": "Saturday, 25 October 2025, 10:23:49 UTC"
 }
