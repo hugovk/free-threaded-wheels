@@ -1319,9 +1319,9 @@
   {
    "downloads": 4606857,
    "name": "pyhmmer",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4595574,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 27 October 2025, 10:28:29 UTC"
+ "last_update": "Tuesday, 28 October 2025, 10:28:26 UTC"
 }
