@@ -927,9 +927,9 @@
   {
    "downloads": 12418227,
    "name": "rignore",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 12381104,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 29 October 2025, 10:27:25 UTC"
+ "last_update": "Thursday, 30 October 2025, 10:27:07 UTC"
 }
