@@ -857,9 +857,9 @@
   {
    "downloads": 16221409,
    "name": "levenshtein",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15973755,
@@ -2096,9 +2096,9 @@
   {
    "downloads": 1975106,
    "name": "lru-dict",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1967575,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 01 November 2025, 10:23:19 UTC"
+ "last_update": "Sunday, 02 November 2025, 10:24:01 UTC"
 }
