@@ -458,9 +458,9 @@
   {
    "downloads": 58110897,
    "name": "lz4",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 52937503,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 03 November 2025, 10:31:25 UTC"
+ "last_update": "Tuesday, 04 November 2025, 10:29:28 UTC"
 }
