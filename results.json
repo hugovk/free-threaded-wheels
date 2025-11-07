@@ -1809,9 +1809,9 @@
   {
    "downloads": 2842047,
    "name": "ckzg",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2787518,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 06 November 2025, 10:28:14 UTC"
+ "last_update": "Friday, 07 November 2025, 10:28:52 UTC"
 }
