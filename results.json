@@ -871,9 +871,9 @@
   {
    "downloads": 15950278,
    "name": "murmurhash",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15926684,
@@ -1711,9 +1711,9 @@
   {
    "downloads": 3116331,
    "name": "tensorstore",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 3069110,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 12 November 2025, 10:28:24 UTC"
+ "last_update": "Thursday, 13 November 2025, 10:30:27 UTC"
 }
