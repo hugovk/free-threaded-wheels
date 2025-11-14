@@ -864,9 +864,9 @@
   {
    "downloads": 15973755,
    "name": "cymem",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15950278,
@@ -906,9 +906,9 @@
   {
    "downloads": 15018874,
    "name": "preshed",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 14811359,
@@ -1305,9 +1305,9 @@
   {
    "downloads": 5932924,
    "name": "mmcif",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5911214,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 13 November 2025, 10:30:27 UTC"
+ "last_update": "Friday, 14 November 2025, 10:30:07 UTC"
 }
