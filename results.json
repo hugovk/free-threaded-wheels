@@ -1032,9 +1032,9 @@
   {
    "downloads": 11189861,
    "name": "faiss-cpu",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 10910685,
@@ -2516,10 +2516,10 @@
   {
    "downloads": 1199344,
    "name": "mapbox-earcut",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 16 November 2025, 10:25:42 UTC"
+ "last_update": "Monday, 17 November 2025, 10:29:36 UTC"
 }
