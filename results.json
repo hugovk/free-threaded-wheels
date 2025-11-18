@@ -885,9 +885,9 @@
   {
    "downloads": 15869708,
    "name": "srsly",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 15155504,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 17 November 2025, 10:29:36 UTC"
+ "last_update": "Tuesday, 18 November 2025, 10:34:43 UTC"
 }
