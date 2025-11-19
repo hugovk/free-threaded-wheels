@@ -2397,9 +2397,9 @@
   {
    "downloads": 1347213,
    "name": "fastexcel",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1343189,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 18 November 2025, 10:34:43 UTC"
+ "last_update": "Wednesday, 19 November 2025, 10:28:19 UTC"
 }
