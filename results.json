@@ -780,9 +780,9 @@
   {
    "downloads": 19661376,
    "name": "msgspec",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 19549956,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 23 November 2025, 10:24:20 UTC"
+ "last_update": "Monday, 24 November 2025, 10:29:21 UTC"
 }
