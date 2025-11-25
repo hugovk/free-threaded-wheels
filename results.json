@@ -647,9 +647,9 @@
   {
    "downloads": 29969802,
    "name": "asyncpg",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 28183626,
@@ -2488,9 +2488,9 @@
   {
    "downloads": 1233886,
    "name": "numpy-quaternion",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1232708,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 24 November 2025, 10:29:21 UTC"
+ "last_update": "Tuesday, 25 November 2025, 10:32:50 UTC"
 }
