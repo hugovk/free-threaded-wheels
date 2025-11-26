@@ -1249,9 +1249,9 @@
   {
    "downloads": 6381092,
    "name": "pyogrio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 6372893,
@@ -1627,9 +1627,9 @@
   {
    "downloads": 3618139,
    "name": "krb5",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3555594,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 25 November 2025, 10:32:50 UTC"
+ "last_update": "Wednesday, 26 November 2025, 10:29:25 UTC"
 }
