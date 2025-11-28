@@ -1501,9 +1501,9 @@
   {
    "downloads": 4395236,
    "name": "pyppmd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4368234,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 27 November 2025, 10:31:39 UTC"
+ "last_update": "Friday, 28 November 2025, 10:30:05 UTC"
 }
