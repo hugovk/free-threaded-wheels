@@ -1522,9 +1522,9 @@
   {
    "downloads": 4255966,
    "name": "pybcj",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4235560,
@@ -1543,9 +1543,9 @@
   {
    "downloads": 4137128,
    "name": "inflate64",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4007505,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 28 November 2025, 10:30:05 UTC"
+ "last_update": "Saturday, 29 November 2025, 10:27:59 UTC"
 }
