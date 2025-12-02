@@ -1137,9 +1137,9 @@
   {
    "downloads": 8472488,
    "name": "pyclipper",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 8401508,
@@ -2383,9 +2383,9 @@
   {
    "downloads": 1533391,
    "name": "openvino",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1525102,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 01 December 2025, 10:33:19 UTC"
+ "last_update": "Tuesday, 02 December 2025, 10:29:54 UTC"
 }
