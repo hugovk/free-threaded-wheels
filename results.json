@@ -1606,9 +1606,9 @@
   {
    "downloads": 3549877,
    "name": "sspilib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3536050,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 02 December 2025, 10:29:54 UTC"
+ "last_update": "Wednesday, 03 December 2025, 10:32:22 UTC"
 }
