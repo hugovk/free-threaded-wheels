@@ -157,9 +157,9 @@
   {
    "downloads": 229802801,
    "name": "greenlet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 227993570,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 04 December 2025, 10:30:40 UTC"
+ "last_update": "Friday, 05 December 2025, 10:28:10 UTC"
 }
