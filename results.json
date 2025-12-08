@@ -1310,13 +1310,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 5977776,
-   "name": "pyzstd",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 5933452,
    "name": "gssapi",
    "css_class": "warning",
@@ -2313,9 +2306,9 @@
   {
    "downloads": 1647716,
    "name": "ibm-db",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1625258,
@@ -2519,7 +2512,14 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1307007,
+   "name": "yappi",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 07 December 2025, 10:24:57 UTC"
+ "last_update": "Monday, 08 December 2025, 10:30:13 UTC"
 }
