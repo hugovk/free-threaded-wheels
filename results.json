@@ -136,9 +136,9 @@
   {
    "downloads": 235169227,
    "name": "sqlalchemy",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 234134662,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 09 December 2025, 10:34:22 UTC"
+ "last_update": "Wednesday, 10 December 2025, 10:31:15 UTC"
 }
