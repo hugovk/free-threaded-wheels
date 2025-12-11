@@ -1550,9 +1550,9 @@
   {
    "downloads": 3896526,
    "name": "tensorstore",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3824675,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 10 December 2025, 10:31:15 UTC"
+ "last_update": "Thursday, 11 December 2025, 10:33:04 UTC"
 }
