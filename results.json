@@ -1760,9 +1760,9 @@
   {
    "downloads": 2996197,
    "name": "rasterio",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2990318,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 12 December 2025, 10:29:22 UTC"
+ "last_update": "Saturday, 13 December 2025, 10:27:59 UTC"
 }
