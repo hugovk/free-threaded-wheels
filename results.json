@@ -262,9 +262,9 @@
   {
    "downloads": 110834003,
    "name": "google-crc32c",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 110579147,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 15 December 2025, 10:33:30 UTC"
+ "last_update": "Tuesday, 16 December 2025, 10:32:07 UTC"
 }
