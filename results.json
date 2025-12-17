@@ -1933,13 +1933,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 2636711,
-   "name": "mediapipe",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 2597825,
    "name": "pywinpty",
    "css_class": "success",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1294331,
+   "name": "pylibsrtp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 16 December 2025, 10:32:07 UTC"
+ "last_update": "Wednesday, 17 December 2025, 10:30:46 UTC"
 }
