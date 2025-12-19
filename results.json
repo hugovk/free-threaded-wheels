@@ -934,9 +934,9 @@
   {
    "downloads": 15235338,
    "name": "fastparquet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 14999479,
@@ -2033,9 +2033,9 @@
   {
    "downloads": 2288888,
    "name": "whenever",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2281785,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 18 December 2025, 10:31:54 UTC"
+ "last_update": "Friday, 19 December 2025, 10:30:13 UTC"
 }
