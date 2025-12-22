@@ -2166,9 +2166,9 @@
   {
    "downloads": 1894890,
    "name": "wordcloud",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1853944,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 21 December 2025, 10:26:26 UTC"
+ "last_update": "Monday, 22 December 2025, 10:30:48 UTC"
 }
