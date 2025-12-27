@@ -1998,8 +1998,8 @@
   {
    "downloads": 2388284,
    "name": "caio",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 26 December 2025, 10:28:15 UTC"
+ "last_update": "Saturday, 27 December 2025, 10:28:42 UTC"
 }
