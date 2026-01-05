@@ -1935,9 +1935,9 @@
   {
    "downloads": 2619411,
    "name": "netcdf4",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2619362,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 04 January 2026, 10:26:00 UTC"
+ "last_update": "Monday, 05 January 2026, 10:33:44 UTC"
 }
