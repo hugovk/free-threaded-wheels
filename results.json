@@ -2264,9 +2264,9 @@
   {
    "downloads": 1886203,
    "name": "apache-sedona",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1869691,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 08 January 2026, 10:31:27 UTC"
+ "last_update": "Friday, 09 January 2026, 10:31:43 UTC"
 }
