@@ -234,9 +234,9 @@
   {
    "downloads": 142590563,
    "name": "websockets",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 136120586,
@@ -1025,9 +1025,9 @@
   {
    "downloads": 12708638,
    "name": "av",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 12635279,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 09 January 2026, 10:31:43 UTC"
+ "last_update": "Saturday, 10 January 2026, 10:26:48 UTC"
 }
