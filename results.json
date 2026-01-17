@@ -1529,9 +1529,9 @@
   {
    "downloads": 4164362,
    "name": "jq",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4060003,
@@ -1816,9 +1816,9 @@
   {
    "downloads": 2959881,
    "name": "xgrammar",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2887341,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 16 January 2026, 10:32:48 UTC"
+ "last_update": "Saturday, 17 January 2026, 10:26:38 UTC"
 }
