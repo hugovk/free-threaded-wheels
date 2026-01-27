@@ -1417,9 +1417,9 @@
   {
    "downloads": 5149177,
    "name": "gssapi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5082389,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 26 January 2026, 10:33:57 UTC"
+ "last_update": "Tuesday, 27 January 2026, 10:36:10 UTC"
 }
