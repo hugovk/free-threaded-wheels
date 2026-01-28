@@ -1858,9 +1858,9 @@
   {
    "downloads": 2802888,
    "name": "cvxpy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2779916,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 27 January 2026, 10:36:10 UTC"
+ "last_update": "Wednesday, 28 January 2026, 10:37:02 UTC"
 }
