@@ -2068,9 +2068,9 @@
   {
    "downloads": 2606815,
    "name": "bitstruct",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2576880,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 07 February 2026, 10:32:59 UTC"
+ "last_update": "Sunday, 08 February 2026, 10:35:51 UTC"
 }
