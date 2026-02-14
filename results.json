@@ -2187,9 +2187,9 @@
   {
    "downloads": 2319358,
    "name": "primp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2301303,
@@ -2472,13 +2472,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 1751680,
-   "name": "nvidia-cutlass-dsl",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 1749406,
    "name": "apache-tvm-ffi",
    "css_class": "success",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 1664945,
+   "name": "rcssmin",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 13 February 2026, 10:50:25 UTC"
+ "last_update": "Saturday, 14 February 2026, 10:33:14 UTC"
 }
