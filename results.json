@@ -430,9 +430,9 @@
   {
    "downloads": 64197969,
    "name": "dulwich",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 63077356,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 17 February 2026, 10:55:00 UTC"
+ "last_update": "Wednesday, 18 February 2026, 10:54:17 UTC"
 }
