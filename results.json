@@ -2017,13 +2017,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 2779725,
-   "name": "xformers",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 2777472,
    "name": "tree-sitter-c",
    "css_class": "warning",
@@ -2519,7 +2512,14 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1661645,
+   "name": "ndindex",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 20 February 2026, 10:44:10 UTC"
+ "last_update": "Saturday, 21 February 2026, 10:32:42 UTC"
 }
