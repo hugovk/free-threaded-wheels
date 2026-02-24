@@ -1471,13 +1471,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 5435298,
-   "name": "sqlglotrs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 5414383,
    "name": "cassandra-driver",
    "css_class": "warning",
@@ -1956,9 +1949,9 @@
   {
    "downloads": 2903338,
    "name": "llguidance",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2899696,
@@ -2519,7 +2512,14 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1640879,
+   "name": "jsonschema-rs",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 23 February 2026, 10:55:06 UTC"
+ "last_update": "Tuesday, 24 February 2026, 10:56:42 UTC"
 }
