@@ -1396,9 +1396,9 @@
   {
    "downloads": 6150735,
    "name": "pillow-heif",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5931910,
@@ -2334,9 +2334,9 @@
   {
    "downloads": 1959404,
    "name": "ephem",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1958591,
@@ -2439,9 +2439,9 @@
   {
    "downloads": 1772828,
    "name": "pi-heif",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 1764973,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 27 February 2026, 10:45:37 UTC"
+ "last_update": "Saturday, 28 February 2026, 10:30:06 UTC"
 }
