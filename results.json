@@ -288,6 +288,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 127438258,
+   "name": "chardet",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 125712453,
    "name": "orjson",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1792868,
-   "name": "pglast",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 03 March 2026, 10:49:44 UTC"
+ "last_update": "Wednesday, 04 March 2026, 10:44:00 UTC"
 }
