@@ -2026,9 +2026,9 @@
   {
    "downloads": 2860347,
    "name": "brotlicffi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2842761,
@@ -2486,13 +2486,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 1824229,
-   "name": "chdb",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 1811384,
    "name": "torchao",
    "css_class": "pure-py",
@@ -2519,7 +2512,14 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
+  },
+  {
+   "downloads": 1792868,
+   "name": "pglast",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 05 March 2026, 10:50:30 UTC"
+ "last_update": "Friday, 06 March 2026, 10:42:38 UTC"
 }
