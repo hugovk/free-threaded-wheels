@@ -724,9 +724,9 @@
   {
    "downloads": 30109082,
    "name": "h5py",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 29670426,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 06 March 2026, 10:42:38 UTC"
+ "last_update": "Saturday, 07 March 2026, 10:30:14 UTC"
 }
