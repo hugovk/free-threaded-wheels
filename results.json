@@ -2194,9 +2194,9 @@
   {
    "downloads": 2332701,
    "name": "correctionlib",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2327973,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 08 March 2026, 10:32:12 UTC"
+ "last_update": "Monday, 09 March 2026, 10:52:39 UTC"
 }
