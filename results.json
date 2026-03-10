@@ -1053,9 +1053,9 @@
   {
    "downloads": 14915207,
    "name": "clickhouse-connect",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 14780840,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 09 March 2026, 10:52:39 UTC"
+ "last_update": "Tuesday, 10 March 2026, 10:50:45 UTC"
 }
