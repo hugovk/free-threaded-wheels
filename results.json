@@ -654,9 +654,9 @@
   {
    "downloads": 36072889,
    "name": "pymupdf",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 35049151,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 10 March 2026, 10:50:45 UTC"
+ "last_update": "Wednesday, 11 March 2026, 10:49:19 UTC"
 }
