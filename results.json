@@ -1928,9 +1928,9 @@
   {
    "downloads": 3153225,
    "name": "newrelic",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3136969,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 12 March 2026, 10:50:22 UTC"
+ "last_update": "Friday, 13 March 2026, 10:46:26 UTC"
 }
