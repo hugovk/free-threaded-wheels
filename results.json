@@ -3,9 +3,9 @@
   {
    "downloads": 1006015167,
    "name": "charset-normalizer",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 761066003,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 15 March 2026, 10:36:52 UTC"
+ "last_update": "Monday, 16 March 2026, 10:59:25 UTC"
 }
