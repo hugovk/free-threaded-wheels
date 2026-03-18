@@ -1949,9 +1949,9 @@
   {
    "downloads": 3124534,
    "name": "lmdb",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 3103295,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 17 March 2026, 10:56:02 UTC"
+ "last_update": "Wednesday, 18 March 2026, 10:58:26 UTC"
 }
