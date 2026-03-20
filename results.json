@@ -885,9 +885,9 @@
   {
    "downloads": 20499756,
    "name": "pyroaring",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 20085869,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 19 March 2026, 10:50:15 UTC"
+ "last_update": "Friday, 20 March 2026, 10:46:39 UTC"
 }
