@@ -1870,6 +1870,13 @@
    "free_threaded_wheel": true
   },
   {
+   "downloads": 3289727,
+   "name": "datefinder",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 3283005,
    "name": "rasterio",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
-  },
-  {
-   "downloads": 1792868,
-   "name": "pglast",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
   }
  ],
- "last_update": "Wednesday, 25 March 2026, 10:55:28 UTC"
+ "last_update": "Thursday, 26 March 2026, 10:59:02 UTC"
 }
