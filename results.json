@@ -1221,9 +1221,9 @@
   {
    "downloads": 9546516,
    "name": "awscrt",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 9229610,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 26 March 2026, 10:59:02 UTC"
+ "last_update": "Friday, 27 March 2026, 10:56:14 UTC"
 }
