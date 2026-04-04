@@ -948,9 +948,9 @@
   {
    "downloads": 22354748,
    "name": "curl-cffi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 21860864,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 03 April 2026, 10:52:18 UTC"
+ "last_update": "Saturday, 04 April 2026, 10:42:12 UTC"
 }
