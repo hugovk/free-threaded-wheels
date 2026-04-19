@@ -514,9 +514,9 @@
   {
    "downloads": 67537791,
    "name": "simplejson",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 65874509,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 18 April 2026, 10:20:17 UTC"
+ "last_update": "Sunday, 19 April 2026, 10:19:06 UTC"
 }
