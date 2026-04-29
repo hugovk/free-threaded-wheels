@@ -801,9 +801,9 @@
   {
    "downloads": 34507558,
    "name": "cbor2",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 33987712,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 28 April 2026, 10:49:51 UTC"
+ "last_update": "Wednesday, 29 April 2026, 10:42:04 UTC"
 }
