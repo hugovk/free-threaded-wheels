@@ -633,8 +633,8 @@
   {
    "downloads": 47259957,
    "name": "mysql-connector-python",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "free_threaded_wheel": false
   },
   {
@@ -2159,9 +2159,9 @@
   {
    "downloads": 3234568,
    "name": "nvidia-cudnn-frontend",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3232894,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 29 April 2026, 10:42:04 UTC"
+ "last_update": "Thursday, 30 April 2026, 10:42:09 UTC"
 }
