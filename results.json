@@ -1445,9 +1445,9 @@
   {
    "downloads": 7833843,
    "name": "python-bidi",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 7831853,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 05 May 2026, 10:40:11 UTC"
+ "last_update": "Wednesday, 06 May 2026, 10:47:13 UTC"
 }
