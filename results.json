@@ -619,9 +619,9 @@
   {
    "downloads": 55991192,
    "name": "uuid-utils",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 55518364,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 11 May 2026, 11:12:31 UTC"
+ "last_update": "Tuesday, 12 May 2026, 10:54:55 UTC"
 }
