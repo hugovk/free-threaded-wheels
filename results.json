@@ -2089,8 +2089,8 @@
   {
    "downloads": 3579681,
    "name": "py-rust-stemmers",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "warning",
+   "icon": "\u2717",
    "free_threaded_wheel": false
   },
   {
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Wednesday, 20 May 2026, 11:08:24 UTC"
+ "last_update": "Thursday, 21 May 2026, 11:11:35 UTC"
 }
