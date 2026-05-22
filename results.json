@@ -1452,9 +1452,9 @@
   {
    "downloads": 7831853,
    "name": "toons",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 7763540,
@@ -2194,9 +2194,9 @@
   {
    "downloads": 3299525,
    "name": "torchcodec",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3294411,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Thursday, 21 May 2026, 11:11:35 UTC"
+ "last_update": "Friday, 22 May 2026, 11:08:18 UTC"
 }
