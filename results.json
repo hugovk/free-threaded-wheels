@@ -346,9 +346,9 @@
   {
    "downloads": 166558575,
    "name": "httptools",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 157094772,
@@ -591,9 +591,9 @@
   {
    "downloads": 60027466,
    "name": "zope-interface",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 59889406,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Monday, 25 May 2026, 11:30:03 UTC"
+ "last_update": "Wednesday, 27 May 2026, 11:20:07 UTC"
 }
