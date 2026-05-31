@@ -2460,9 +2460,9 @@
   {
    "downloads": 2622312,
    "name": "pyobjc-core",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2619673,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Saturday, 30 May 2026, 10:39:33 UTC"
+ "last_update": "Sunday, 31 May 2026, 10:45:02 UTC"
 }
