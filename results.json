@@ -1739,9 +1739,9 @@
   {
    "downloads": 4348827,
    "name": "pyodps",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 4293286,
@@ -2054,9 +2054,9 @@
   {
    "downloads": 3215589,
    "name": "osqp",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 3187805,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 09 June 2026, 11:09:58 UTC"
+ "last_update": "Wednesday, 10 June 2026, 11:22:18 UTC"
 }
