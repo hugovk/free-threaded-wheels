@@ -2215,9 +2215,9 @@
   {
    "downloads": 2920665,
    "name": "onnxruntime-gpu",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 2902152,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 15 June 2026, 12:06:26 UTC"
+ "last_update": "Tuesday, 16 June 2026, 11:51:10 UTC"
 }
