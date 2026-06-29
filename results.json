@@ -2187,9 +2187,9 @@
   {
    "downloads": 3002572,
    "name": "datafusion",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 2977326,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 28 June 2026, 10:51:08 UTC"
+ "last_update": "Monday, 29 June 2026, 11:46:52 UTC"
 }
