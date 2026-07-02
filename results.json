@@ -1893,9 +1893,9 @@
   {
    "downloads": 5304357,
    "name": "habluetooth",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 5303661,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 01 July 2026, 11:17:46 UTC"
+ "last_update": "Thursday, 02 July 2026, 11:00:44 UTC"
 }
