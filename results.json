@@ -64,6 +64,13 @@
    "free_threaded_wheel": true
   },
   {
+   "downloads": 633238370,
+   "name": "litellm",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 632089652,
    "name": "aiohttp",
    "css_class": "success",
@@ -815,6 +822,13 @@
   {
    "downloads": 41324847,
    "name": "opencv-python-headless",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 39989340,
+   "name": "thrift",
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
@@ -2505,21 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3050052,
-   "name": "line-profiler",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3046974,
-   "name": "decord",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 11 July 2026, 10:30:40 UTC"
+ "last_update": "Sunday, 12 July 2026, 10:35:47 UTC"
 }
