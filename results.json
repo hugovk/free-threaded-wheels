@@ -1662,9 +1662,9 @@
   {
    "downloads": 6763906,
    "name": "autobahn",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 6701204,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Wednesday, 15 July 2026, 10:39:20 UTC"
+ "last_update": "Thursday, 16 July 2026, 10:45:12 UTC"
 }
