@@ -1704,9 +1704,9 @@
   {
    "downloads": 6375535,
    "name": "xgrammar",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 6366633,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Saturday, 18 July 2026, 10:33:22 UTC"
+ "last_update": "Sunday, 19 July 2026, 10:33:33 UTC"
 }
