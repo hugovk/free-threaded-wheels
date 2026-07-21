@@ -1499,6 +1499,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 8932451,
+   "name": "pipdeptree",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 8867348,
    "name": "openlineage-sql",
    "css_class": "warning",
@@ -2512,14 +2519,7 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
-  },
-  {
-   "downloads": 3055628,
-   "name": "tree-sitter-json",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 20 July 2026, 11:05:00 UTC"
+ "last_update": "Tuesday, 21 July 2026, 10:49:19 UTC"
 }
