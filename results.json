@@ -976,9 +976,9 @@
   {
    "downloads": 29422261,
    "name": "hiredis",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 28371326,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 07 August 2026, 10:24:06 UTC"
+ "last_update": "Saturday, 08 August 2026, 10:12:15 UTC"
 }
