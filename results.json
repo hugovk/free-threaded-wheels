@@ -2458,13 +2458,6 @@
    "free_threaded_wheel": false
   },
   {
-   "downloads": 3394230,
-   "name": "pydantic-monty",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 3369467,
    "name": "pyqt5-sip",
    "css_class": "warning",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 3221910,
+   "name": "sspilib",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 09 August 2026, 10:13:47 UTC"
+ "last_update": "Monday, 10 August 2026, 10:34:18 UTC"
 }
