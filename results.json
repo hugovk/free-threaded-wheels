@@ -2250,9 +2250,9 @@
   {
    "downloads": 4008623,
    "name": "ibm-db",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 3940760,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 11 August 2026, 10:22:02 UTC"
+ "last_update": "Wednesday, 12 August 2026, 10:27:31 UTC"
 }
