@@ -2465,6 +2465,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 3335625,
+   "name": "asynch",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
    "downloads": 3335601,
    "name": "zeroconf",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3221910,
-   "name": "sspilib",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 14 August 2026, 10:25:11 UTC"
+ "last_update": "Saturday, 15 August 2026, 10:07:45 UTC"
 }
