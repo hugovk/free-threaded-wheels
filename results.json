@@ -1933,6 +1933,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 5433606,
+   "name": "numpy-financial",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 5410211,
    "name": "selectolax",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3149373,
-   "name": "tree-sitter-scala",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 14 September 2026, 10:19:19 UTC"
+ "last_update": "Tuesday, 15 September 2026, 10:17:20 UTC"
 }
