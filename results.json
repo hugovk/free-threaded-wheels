@@ -1494,9 +1494,9 @@
   {
    "downloads": 10438560,
    "name": "cchardet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 10347193,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 15 September 2026, 10:17:20 UTC"
+ "last_update": "Wednesday, 16 September 2026, 10:17:59 UTC"
 }
