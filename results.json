@@ -1676,9 +1676,9 @@
   {
    "downloads": 7488032,
    "name": "numcodecs",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 7388452,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 17 September 2026, 10:18:58 UTC"
+ "last_update": "Friday, 18 September 2026, 10:17:05 UTC"
 }
