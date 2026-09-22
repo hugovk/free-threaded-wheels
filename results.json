@@ -1436,6 +1436,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 11257603,
+   "name": "mistral-vibe",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
    "downloads": 11200392,
    "name": "pyclipper",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
-  },
-  {
-   "downloads": 3161840,
-   "name": "hdbcli",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 21 September 2026, 10:18:35 UTC"
+ "last_update": "Tuesday, 22 September 2026, 10:20:59 UTC"
 }
