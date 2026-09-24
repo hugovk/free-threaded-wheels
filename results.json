@@ -225,6 +225,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 307965274,
+   "name": "wcwidth",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
    "downloads": 292698850,
    "name": "hf-xet",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3169046,
-   "name": "djlint",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
   }
  ],
- "last_update": "Wednesday, 23 September 2026, 10:19:19 UTC"
+ "last_update": "Thursday, 24 September 2026, 10:21:37 UTC"
 }
