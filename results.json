@@ -1667,6 +1667,13 @@
    "free_threaded_wheel": false
   },
   {
+   "downloads": 7633701,
+   "name": "pulp",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
+  },
+  {
    "downloads": 7627641,
    "name": "pipdeptree",
    "css_class": "success",
@@ -2512,14 +2519,7 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 3214212,
-   "name": "libsass",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 24 September 2026, 10:21:37 UTC"
+ "last_update": "Friday, 25 September 2026, 10:19:31 UTC"
 }
