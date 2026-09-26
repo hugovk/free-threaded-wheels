@@ -54,7 +54,10 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
 
-                if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
+                if any(
+                    tag == "abi3t" or (tag.startswith("cp3") and tag.endswith("t"))
+                    for tag in abi_tag.split(".")
+                ):
                     has_free_threaded_wheel = True
                 elif abi_tag != "none":
                     has_other_binary_wheel = True
