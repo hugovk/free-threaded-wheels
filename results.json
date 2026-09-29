@@ -2082,9 +2082,9 @@
   {
    "downloads": 4880245,
    "name": "cftime",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 4844349,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 28 September 2026, 10:21:24 UTC"
+ "last_update": "Tuesday, 29 September 2026, 10:19:26 UTC"
 }
