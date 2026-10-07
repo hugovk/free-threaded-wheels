@@ -703,9 +703,9 @@
   {
    "downloads": 41861702,
    "name": "confluent-kafka",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 40201001,
@@ -1277,9 +1277,9 @@
   {
    "downloads": 10930930,
    "name": "geventhttpclient",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 10654974,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Tuesday, 06 October 2026, 10:18:28 UTC"
+ "last_update": "Wednesday, 07 October 2026, 10:19:23 UTC"
 }
