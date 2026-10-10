@@ -283,9 +283,9 @@
   {
    "downloads": 166389324,
    "name": "tokenizers",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 166088922,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Friday, 09 October 2026, 10:20:15 UTC"
+ "last_update": "Saturday, 10 October 2026, 10:16:56 UTC"
 }
