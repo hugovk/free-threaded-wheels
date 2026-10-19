@@ -451,9 +451,9 @@
   {
    "downloads": 85271565,
    "name": "pymupdf",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 84886808,
@@ -1646,13 +1646,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 5839972,
-   "name": "pymupdf-layout",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
-  },
-  {
    "downloads": 5770564,
    "name": "whenever",
    "css_class": "success",
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2446721,
+   "name": "tree-sitter-swift",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 18 October 2026, 10:15:07 UTC"
+ "last_update": "Monday, 19 October 2026, 10:17:43 UTC"
 }
