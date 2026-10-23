@@ -1774,9 +1774,9 @@
   {
    "downloads": 5122655,
    "name": "timezonefinder",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 5103994,
@@ -2439,9 +2439,9 @@
   {
    "downloads": 2622481,
    "name": "loro",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 2613549,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Thursday, 22 October 2026, 10:16:54 UTC"
+ "last_update": "Friday, 23 October 2026, 10:18:18 UTC"
 }
