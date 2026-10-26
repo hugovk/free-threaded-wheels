@@ -990,9 +990,9 @@
   {
    "downloads": 21038598,
    "name": "blis",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 20888662,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Sunday, 25 October 2026, 10:16:21 UTC"
+ "last_update": "Monday, 26 October 2026, 10:19:48 UTC"
 }
