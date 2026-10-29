@@ -1093,13 +1093,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 16297237,
-   "name": "torchvision",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
    "downloads": 15829473,
    "name": "bitarray",
    "css_class": "success",
@@ -1662,13 +1655,6 @@
   {
    "downloads": 5719639,
    "name": "jsonschema-rs",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
-   "downloads": 5719226,
-   "name": "torchaudio",
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
@@ -2519,7 +2505,21 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2427773,
+   "name": "cx-oracle",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2415688,
+   "name": "pycairo",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Wednesday, 28 October 2026, 10:13:13 UTC"
+ "last_update": "Thursday, 29 October 2026, 10:12:39 UTC"
 }
