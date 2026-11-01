@@ -103,7 +103,7 @@ def get_top_packages():
 
 
 def save_to_file(packages, file_name):
-    now = dt.datetime.now(tz=dt.timezone.utc)
+    now = dt.datetime.now(tz=dt.UTC)
     with open(file_name, "w") as f:
         f.write(
             json.dumps(
