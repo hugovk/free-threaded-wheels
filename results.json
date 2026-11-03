@@ -129,9 +129,9 @@
   {
    "downloads": 429406703,
    "name": "pyarrow",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
+   "css_class": "warning",
+   "icon": "\u2717",
+   "free_threaded_wheel": false
   },
   {
    "downloads": 413464934,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": false
   }
  ],
- "last_update": "Monday, 02 November 2026, 10:13:35 UTC"
+ "last_update": "Tuesday, 03 November 2026, 10:12:41 UTC"
 }
