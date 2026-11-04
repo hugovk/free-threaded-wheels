@@ -129,9 +129,9 @@
   {
    "downloads": 429406703,
    "name": "pyarrow",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 413464934,
@@ -1007,13 +1007,6 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
-  },
-  {
-   "downloads": 22918105,
-   "name": "srsly",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
   },
   {
    "downloads": 22728213,
@@ -2519,7 +2512,14 @@
    "css_class": "warning",
    "icon": "\u2717",
    "free_threaded_wheel": false
+  },
+  {
+   "downloads": 2913157,
+   "name": "pytest-codspeed",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Tuesday, 03 November 2026, 10:12:41 UTC"
+ "last_update": "Wednesday, 04 November 2026, 10:12:27 UTC"
 }
