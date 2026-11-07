@@ -1828,13 +1828,6 @@
    "free_threaded_wheel": true
   },
   {
-   "downloads": 5464772,
-   "name": "mujoco",
-   "css_class": "success",
-   "icon": "\ud83e\uddf5",
-   "free_threaded_wheel": true
-  },
-  {
    "downloads": 5393069,
    "name": "vtk",
    "css_class": "success",
@@ -2519,7 +2512,14 @@
    "css_class": "success",
    "icon": "\ud83e\uddf5",
    "free_threaded_wheel": true
+  },
+  {
+   "downloads": 2907615,
+   "name": "toons",
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   }
  ],
- "last_update": "Friday, 06 November 2026, 10:12:18 UTC"
+ "last_update": "Saturday, 07 November 2026, 10:09:49 UTC"
 }
