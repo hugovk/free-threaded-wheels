@@ -1697,9 +1697,9 @@
   {
    "downloads": 6556385,
    "name": "highspy",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 6429889,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Wednesday, 11 November 2026, 10:11:27 UTC"
+ "last_update": "Thursday, 12 November 2026, 10:13:05 UTC"
 }
