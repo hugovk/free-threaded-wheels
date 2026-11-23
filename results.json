@@ -1018,9 +1018,9 @@
   {
    "downloads": 22651952,
    "name": "ctranslate2",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "free_threaded_wheel": false
+   "css_class": "success",
+   "icon": "\ud83e\uddf5",
+   "free_threaded_wheel": true
   },
   {
    "downloads": 22561231,
@@ -2521,5 +2521,5 @@
    "free_threaded_wheel": true
   }
  ],
- "last_update": "Sunday, 22 November 2026, 10:10:02 UTC"
+ "last_update": "Monday, 23 November 2026, 10:13:38 UTC"
 }
